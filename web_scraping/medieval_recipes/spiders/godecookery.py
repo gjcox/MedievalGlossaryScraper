@@ -1,8 +1,9 @@
-import logging
 import re
+import scrapy
+import logging
+
 from typing import Any
 
-import scrapy
 from scrapy.http import Response
 
 class GodeCookerySpider(scrapy.Spider):
