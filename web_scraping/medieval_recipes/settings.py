@@ -68,9 +68,9 @@ ITEM_PIPELINES = {
 
 # Feeds config
 FEEDS = {
-        '../recipes.jsonl': {
+        '../resources/recipes.jsonl': {
             'format': 'jsonlines',
-            'overwrite': False,
+            'overwrite': True,
             'indent': 4,
     },
 }
