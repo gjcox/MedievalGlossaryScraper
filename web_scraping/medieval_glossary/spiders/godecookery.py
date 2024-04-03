@@ -18,7 +18,7 @@ DOUBLE_SPACE_PATTERN = re.compile(r"\s\s+")
 class GodeCookerySpider(scrapy.Spider):
     name = "godecookeryglossary"
     allowed_domains = ["godecookery.com"]
-    start_urls = ["http://www.godecookery.com/glossary/glossa.htm"]
+    start_urls = [GLOSSARY_ROOT_URL]
 
     def clean_list_item(self, list_item: str) -> str:
         clean_html = re.sub(HTML_TAG_PATTERN, "", list_item)
