@@ -6,7 +6,8 @@ from typing import Any, Generator
 
 from scrapy.http import Response
 
-from medieval_glossary.util import get_singular, get_plural, matches_plural_pattern
+from medieval_glossary.util import matches_plural_pattern, get_singular, get_plural, \
+    matches_optional_pattern, get_with_optional, get_without_optional
 
 GLOSSARY_ROOT_URL = "http://www.godecookery.com/glossary/glossary.htm"
 GLOSSARY_PATTERN = re.compile(r"gloss\w.htm")
@@ -46,6 +47,17 @@ class GodeCookerySpider(scrapy.Spider):
                     'plaintext': get_plural(plaintext),
                     'meanings': meanings, 
                     'plural': True
+                    }
+            elif matches_optional_pattern(plaintext):
+                yield {
+                    'plaintext': get_with_optional(plaintext),
+                    'meanings': meanings, 
+                    'plural': None
+                    }
+                yield { 
+                    'plaintext': get_without_optional(plaintext),
+                    'meanings': meanings, 
+                    'plural': None
                     }
             else:
                 yield {
