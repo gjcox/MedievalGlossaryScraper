@@ -9,7 +9,7 @@ from scrapy.http import Response
 from medieval_glossary.util import get_singular, get_plural, matches_plural_pattern
 
 GLOSSARY_ROOT_URL = "http://www.godecookery.com/glossary/glossary.htm"
-GLOSSARY_PATTERN = re.compile(r"/glossary/gloss\w.htm")
+GLOSSARY_PATTERN = re.compile(r"gloss\w.htm")
 HTML_TAG_PATTERN = re.compile(r"<.*?>")
 NEWLINE_PATTERN = re.compile(r"\n")
 AMPERSAND_PATTERN = re.compile(r"&amp;")
@@ -69,7 +69,5 @@ class GodeCookerySpider(scrapy.Spider):
             
             for entry in entries:
                 yield from self.split_entry_by_plaintext(entry)
-                # sub_entries = self.split_entry_by_plaintext(entry)
-                # for sub_entry in sub_entries:
-                #      yield sub_entry
+
             
