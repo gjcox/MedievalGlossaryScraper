@@ -2,17 +2,13 @@ import scrapy
 
 from typing import List
 
-from scrapy.exceptions import DropItem
 from medieval_glossary.glossarybuilding.glossary import GlossaryEntry, Meaning
-
-from medieval_glossary.util import PLURAL_PATTERN, get_singular, get_plural, object_to_dict
+from medieval_glossary.util import get_singular, get_plural, object_to_dict
 
 # Define your item pipelines here
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-
-from medieval_glossary.util import get_singular, get_plural, matches_plural_pattern
 
 class MedievalGlossaryPipeline:
     def split_meaning(self, meaning: str, is_plural: bool | None) -> tuple[str, str | None]:
