@@ -64,7 +64,6 @@ ROBOTSTXT_OBEY = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    "medieval_glossary.pipelines.MedievalGlossaryPipeline": 300,
-#    "medieval_glossary.pipelines.YieldToReturnPipeline": 400, 
 }
 
 # Feeds config

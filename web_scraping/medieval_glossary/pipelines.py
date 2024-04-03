@@ -39,9 +39,3 @@ class MedievalGlossaryPipeline:
             substitution, note = self.split_meaning(meaning, item['plural'])
             entry.add_meaning(Meaning(substitution, note))
         return object_to_dict(entry)
-
-            
-class YieldToReturnPipeline:
-    def process_item(self, item: GlossaryEntry, spider: scrapy.Spider) -> GlossaryEntry:
-        # spider.log(f"YieldToReturnPipeline received {item}", logging.INFO)
-        return list(item)
