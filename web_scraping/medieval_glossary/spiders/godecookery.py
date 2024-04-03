@@ -13,7 +13,7 @@ NEWLINE_PATTERN = re.compile(r"\n")
 AMPERSAND_PATTERN = re.compile(r"&amp;")
 DOUBLE_SPACE_PATTERN = re.compile(r"\s\s+")
 
-def cleanListItem(list_item: str) -> str:
+def clean_list_item(list_item: str) -> str:
     clean_html = re.sub(HTML_TAG_PATTERN, "", list_item)
     no_line_breaks = re.sub(NEWLINE_PATTERN, " ", clean_html)
     no_amberspand = re.sub(AMPERSAND_PATTERN, "and", no_line_breaks)
@@ -35,7 +35,8 @@ class GodeCookerySpider(scrapy.Spider):
 
         elif re.findall(GLOSSARY_PATTERN, response.url):
             # extract entries
-            entries = map(cleanListItem, \
+            entries = map(clean_list_item, \
                              response.xpath("//li[1]").getall())
+            
             yield from list(map(lambda y: {'text': y}, entries))
             
