@@ -1,10 +1,12 @@
+import logging
 import re
 import scrapy
-import logging
 
-from typing import Any
+from typing import Any, Generator
 
 from scrapy.http import Response
+
+from medieval_glossary.util import get_singular, get_plural, matches_plural_pattern
 
 GLOSSARY_ROOT_URL = "http://www.godecookery.com/glossary/glossary.htm"
 GLOSSARY_PATTERN = re.compile(r"/glossary/gloss\w.htm")
@@ -13,17 +15,44 @@ NEWLINE_PATTERN = re.compile(r"\n")
 AMPERSAND_PATTERN = re.compile(r"&amp;")
 DOUBLE_SPACE_PATTERN = re.compile(r"\s\s+")
 
-def clean_list_item(list_item: str) -> str:
-    clean_html = re.sub(HTML_TAG_PATTERN, "", list_item)
-    no_line_breaks = re.sub(NEWLINE_PATTERN, " ", clean_html)
-    no_amberspand = re.sub(AMPERSAND_PATTERN, "and", no_line_breaks)
-    no_double_space = re.sub(DOUBLE_SPACE_PATTERN, " ", no_amberspand)
-    return no_double_space.strip()
-
 class GodeCookerySpider(scrapy.Spider):
     name = "godecookeryglossary"
     allowed_domains = ["godecookery.com"]
-    start_urls = ["http://www.godecookery.com/glossary/glossv.htm"]
+    start_urls = ["http://www.godecookery.com/glossary/glossa.htm"]
+
+    def clean_list_item(self, list_item: str) -> str:
+        clean_html = re.sub(HTML_TAG_PATTERN, "", list_item)
+        no_line_breaks = re.sub(NEWLINE_PATTERN, " ", clean_html)
+        no_amberspand = re.sub(AMPERSAND_PATTERN, "and", no_line_breaks)
+        no_double_space = re.sub(DOUBLE_SPACE_PATTERN, " ", no_amberspand)
+        return no_double_space.strip()
+
+    def split_entry_by_plaintext(self, list_item: str) -> Generator:
+        try:
+            [plaintexts, meanings] = map(lambda x: x.split(";"), \
+                                        list_item.split(' - ', 1))
+        except ValueError:
+            self.log(f"\"{list_item}\" did not match \" - \" and could not be split", logging.WARNING)
+            yield None
+            return
+        for plaintext in plaintexts:
+            if matches_plural_pattern(plaintext):
+                yield {
+                    'plaintext': get_singular(plaintext),
+                    'meanings': meanings, 
+                    'plural': False
+                    }
+                yield { 
+                    'plaintext': get_plural(plaintext),
+                    'meanings': meanings, 
+                    'plural': True
+                    }
+            else:
+                yield {
+                    'plaintext': plaintext, 
+                    'meanings': meanings, 
+                    'plural': None 
+                    }
 
     def parse(self, response: Response) -> Any:
         if response.url == GLOSSARY_ROOT_URL:
@@ -35,8 +64,12 @@ class GodeCookerySpider(scrapy.Spider):
 
         elif re.findall(GLOSSARY_PATTERN, response.url):
             # extract entries
-            entries = map(clean_list_item, \
+            entries = map(self.clean_list_item, \
                              response.xpath("//li[1]").getall())
             
-            yield from list(map(lambda y: {'text': y}, entries))
+            for entry in entries:
+                yield from self.split_entry_by_plaintext(entry)
+                # sub_entries = self.split_entry_by_plaintext(entry)
+                # for sub_entry in sub_entries:
+                #      yield sub_entry
             

@@ -3,6 +3,7 @@ from typing import List
 class Meaning:
     substitution: str
     note: str
+
     def __init__(self, sub: str, note : str | None = None) -> None:
         self.substitution = sub.strip(" .")
         if note:
@@ -13,7 +14,7 @@ class GlossaryEntry:
     meanings: List[Meaning]
 
     def __init__(self, plaintext: str) -> None:
-        self.plaintext = plaintext.strip()
+        self.plaintext = plaintext.strip().lower()
         self.meanings = []
 
     def __repr__(self):
