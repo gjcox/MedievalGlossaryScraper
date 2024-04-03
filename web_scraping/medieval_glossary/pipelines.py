@@ -1,11 +1,12 @@
-import logging
-import re
-from typing import List
 import scrapy
 
+from typing import List
+
+from scrapy.exceptions import DropItem
+from medieval_glossary.glossarybuilding.glossary import GlossaryEntry, Meaning
+
 from medieval_glossary.util import PLURAL_PATTERN, get_singular, get_plural, object_to_dict
-from medieval_glossary.glossarybuilding.glossary import \
-                                                GlossaryEntry, Meaning
+
 # Define your item pipelines here
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
@@ -14,19 +15,29 @@ from medieval_glossary.glossarybuilding.glossary import \
 from medieval_glossary.util import get_singular, get_plural, matches_plural_pattern
 
 class MedievalGlossaryPipeline:
+    def split_meaning(self, meaning: str) -> tuple[str, str | None]:
+        [substitution, *note_wrapper] = meaning.split(",", 1)
+        if note_wrapper:
+            note = note_wrapper[0] 
+        else:
+            note = None
+        return (substitution, note)
+
     def process_item(self, item: dict[str, List[str], bool], spider: scrapy.Spider):
         entry = GlossaryEntry(item['plaintext'])
         if item['plural'] is None:
             for meaning in item['meanings']:
-                [substitution, *note] = meaning.split(",", 1)
-                if note:
-                    entry.add_meaning(Meaning(substitution, note[0]))
-                else:
-                    entry.add_meaning(Meaning(substitution))
+                substitution, note = self.split_meaning(meaning)
+                entry.add_meaning(Meaning(substitution, note))
             return object_to_dict(entry)
         else:
-            raise scrapy.DropItem("TODO")
-        #     elif matches_plural_pattern(substitution):
+            raise DropItem("TODO")
+        # elif item['plural']:
+        #     for meaning in item['meanings']:
+        #         if matches_plural_pattern(substitution):
+        #             # TODO
+        #         else:
+
 
         # [plaintexts, meanings] = map(lambda x: x.split(";"), \
         #                              item['text'].split(' - ', 1))
