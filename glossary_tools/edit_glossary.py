@@ -1,4 +1,3 @@
-from collections import Counter
 import sys, os, argparse, json, io
 
 # ''' I am aware this is quite hacky, but to my understanding scrapy makes
