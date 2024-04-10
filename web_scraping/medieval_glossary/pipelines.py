@@ -3,7 +3,7 @@ import scrapy
 from typing import List
 
 from medieval_glossary.glossarybuilding.glossary import GlossaryEntry, Meaning
-from medieval_glossary.util import get_singular, get_plural, object_to_dict
+from web_scraping.medieval_glossary.glossarybuilding.util import get_singular, get_plural, object_to_dict
 
 # Define your item pipelines here
 #
