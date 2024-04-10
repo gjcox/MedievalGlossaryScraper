@@ -1,3 +1,4 @@
+from collections import Counter
 import sys, os, argparse, json, io
 
 # ''' I am aware this is quite hacky, but to my understanding scrapy makes
@@ -11,8 +12,26 @@ import sys, os, argparse, json, io
 # import web_scraping.medieval_glossary.glossarybuilding.util as glosutils
 
 tasks = {
-    'alpha': 'alphabetise'
+    'alpha': 'alphabetise',
+    'syn': 'synonyms',
 }
+
+def synonyms(source: io.TextIOWrapper, output: io.TextIOWrapper):
+    json_list = list(source)
+    entry_list = list(map(json.loads, json_list))
+    meanings_tracker = {}
+    for entry in entry_list:
+        try:
+            entry['synonymOf'] = meanings_tracker[str(entry['meanings'])]['origin']
+            entry.pop('meanings', None)
+        except KeyError:
+            meanings_tracker[str(entry['meanings'])] = {
+                'origin': entry['plaintext'],
+                'count': 0, 
+            }
+    output.writelines("\n".join(
+        map(lambda x: json.dumps(x, ensure_ascii=False), entry_list)))
+ 
 
 def alphabetise(source: io.TextIOWrapper, output: io.TextIOWrapper):
     json_list = list(source)
@@ -20,6 +39,7 @@ def alphabetise(source: io.TextIOWrapper, output: io.TextIOWrapper):
     entry_list.sort(key=lambda entry : entry['plaintext'])
     output.writelines("\n".join(
         map(lambda x: json.dumps(x, ensure_ascii=False), entry_list)))
+
 
 def main():
     parser = argparse.ArgumentParser(description='Process a JSON-lines glossary file.')
@@ -32,6 +52,8 @@ def main():
 
     if args.task == tasks['alpha']:
         alphabetise(args.source, args.output)
+    elif args.task == tasks['syn']:
+        synonyms(args.source, args.output)
     else:
         parser.print_help()
 
