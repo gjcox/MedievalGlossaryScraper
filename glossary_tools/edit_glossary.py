@@ -1,14 +1,14 @@
 import sys, os, argparse, json, io
 
-''' I am aware this is quite hacky, but to my understanding scrapy makes
-    temporary virtual filespaces when it runs, so it is easier to jankily
-    import modules from the web_scraping package than into the web_scraping
-    package. Additionally, while this might be a brittle solution I only 
-    intend this code to run on my machine so flexibility is not a high 
-    priority. '''
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import web_scraping.medieval_glossary.glossarybuilding.glossary as glossary
-import web_scraping.medieval_glossary.glossarybuilding.util as glosutils
+# ''' I am aware this is quite hacky, but to my understanding scrapy makes
+#     temporary virtual filespaces when it runs, so it is easier to jankily
+#     import modules from the web_scraping package than into the web_scraping
+#     package. Additionally, while this might be a brittle solution I only 
+#     intend this code to run on my machine so flexibility is not a high 
+#     priority. '''
+# sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# import web_scraping.medieval_glossary.glossarybuilding.glossary as glossary
+# import web_scraping.medieval_glossary.glossarybuilding.util as glosutils
 
 tasks = {
     'alpha': 'alphabetise'
