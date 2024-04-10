@@ -10,51 +10,55 @@ import sys, os, argparse, json, io
 # import web_scraping.medieval_glossary.glossarybuilding.glossary as glossary
 # import web_scraping.medieval_glossary.glossarybuilding.util as glosutils
 
-tasks = {
-    'alpha': 'alphabetise',
-    'syn': 'synonyms',
-}
-
 def synonyms(source: io.TextIOWrapper, output: io.TextIOWrapper):
-    json_list = list(source)
-    entry_list = list(map(json.loads, json_list))
+    # Load JSON entries from source
+    entry_list = [json.loads(line) for line in source]
+
+    # Track occurrences of meanings to find synonyms
+    # ... and replace 'meanings' key with 'synonymOf' key as appropriate 
     meanings_tracker = {}
     for entry in entry_list:
-        try:
-            entry['synonymOf'] = meanings_tracker[str(entry['meanings'])]['origin']
-            entry.pop('meanings', None)
-        except KeyError:
-            meanings_tracker[str(entry['meanings'])] = {
-                'origin': entry['plaintext'],
-                'count': 0, 
-            }
-    output.writelines("\n".join(
-        map(lambda x: json.dumps(x, ensure_ascii=False), entry_list)))
+        if 'meanings' in entry:
+            meanings_str = str(entry['meanings'])
+            try:
+                entry['synonymOf'] = meanings_tracker[meanings_str]['origin']
+                entry.pop('meanings', None)
+            except KeyError:
+                meanings_tracker[meanings_str] = {
+                    'origin': entry['plaintext'],
+                    'count': 0, 
+                }
+        # else: likely already a synonymOf _
+    
+    # Write processed entries to output file
+    output.writelines(json.dumps(entry, ensure_ascii=False) + '\n' for entry in entry_list)
  
 
 def alphabetise(source: io.TextIOWrapper, output: io.TextIOWrapper):
-    json_list = list(source)
-    entry_list = list(map(json.loads, json_list))
+    # Load JSON entries from source
+    entry_list = [json.loads(line) for line in source]
+    # Sort entries by plaintext 
     entry_list.sort(key=lambda entry : entry['plaintext'])
-    output.writelines("\n".join(
-        map(lambda x: json.dumps(x, ensure_ascii=False), entry_list)))
+    # Write processed entries to output file
+    output.writelines(json.dumps(entry, ensure_ascii=False) + '\n' for entry in entry_list)
+
+
+tasks = {
+    'alphabetise': alphabetise,
+    'synonyms': synonyms,
+}
 
 
 def main():
     parser = argparse.ArgumentParser(description='Process a JSON-lines glossary file.')
-    parser.add_argument("task", choices=tasks.values())
+    parser.add_argument("task", choices=tasks.keys())
     parser.add_argument("source", type=argparse.FileType('r', encoding='UTF-8'), 
                         help="the current glossary file")
     parser.add_argument("output", type=argparse.FileType('w', encoding='UTF-8'),
                         help="the file to write the processed version of the glossary to")
     args = parser.parse_args()
 
-    if args.task == tasks['alpha']:
-        alphabetise(args.source, args.output)
-    elif args.task == tasks['syn']:
-        synonyms(args.source, args.output)
-    else:
-        parser.print_help()
+    tasks[args.task](args.source, args.output)
 
     args.source.close()
     args.output.close()
