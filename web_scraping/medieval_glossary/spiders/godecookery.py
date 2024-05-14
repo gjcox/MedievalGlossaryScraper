@@ -6,7 +6,7 @@ from typing import Any, Generator
 
 from scrapy.http import Response
 
-from medieval_glossary.util import matches_plural_pattern, get_singular, get_plural, \
+from web_scraping.medieval_glossary.glossarybuilding.util import matches_plural_pattern, get_singular, get_plural, \
     matches_optional_pattern, get_with_optional, get_without_optional
 
 GLOSSARY_ROOT_URL = "http://www.godecookery.com/glossary/glossary.htm"
