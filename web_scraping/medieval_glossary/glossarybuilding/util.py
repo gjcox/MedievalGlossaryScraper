@@ -41,19 +41,27 @@ def get_with_optional(string: str):
 def get_without_optional(string: str):
     return re.sub(OPTIONAL_PATTERN, "", string)
 
-def object_to_dict(obj):
+def object_to_dict_inner(obj):
     if isinstance(obj, (int, float, str, bool)):
         return obj  # For basic types, return as is
-
     if isinstance(obj, list):
-        return [object_to_dict(item) for item in obj]  # Recursively convert list elements
-
+        return [object_to_dict_inner(item) for item in obj]  # Recursively convert list elements
     if isinstance(obj, dict):
-        return {key: object_to_dict(value) for key, value in obj.items()}  # Recursively convert dictionary values
-
+        return {key: object_to_dict_inner(value) for key, value in obj.items()}  # Recursively convert dictionary values
     if hasattr(obj, '__dict__'):
         # For objects, recursively convert attributes to dictionary
-        return {key: object_to_dict(value) for key, value in obj.__dict__.items()}
-
+        return {key: object_to_dict_inner(value) for key, value in obj.__dict__.items()}
     return str(obj)  # Fallback for unsupported types
-    
+
+def object_to_dict(obj):
+    d = object_to_dict_inner(obj)
+    empty_keys = []
+    for key, value in d.items():
+        try:
+            if len(value) == 0: 
+                empty_keys.append(key)
+        except TypeError:
+            pass
+    for empty_key in empty_keys:
+        del d[empty_key]
+    return d
