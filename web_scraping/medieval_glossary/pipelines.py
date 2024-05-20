@@ -4,6 +4,8 @@ from typing import List
 
 from medieval_glossary.glossarybuilding.glossary import GlossaryEntry, Meaning
 from web_scraping.medieval_glossary.glossarybuilding.util import get_singular, get_plural, object_to_dict
+from web_scraping.medieval_glossary.spiders.medievalcookery import SPIDER_NAME as MC_SPIDER_NAME
+from web_scraping.medieval_glossary.spiders.godecookery import SPIDER_NAME as GC_SPIDER_NAME
 
 # Define your item pipelines here
 #
@@ -31,7 +33,13 @@ class MedievalGlossaryPipeline:
 
     def process_item(self, item: dict[str, List[str], bool], spider: scrapy.Spider):
         entry = GlossaryEntry(item['plaintext'])
-        for meaning in item['meanings']:
-            substitution, note = self.split_meaning(meaning, item['plural'])
-            entry.add_meaning(Meaning(substitution, note))
+        if spider.name == GC_SPIDER_NAME:
+            for meaning in item['meanings']:
+                substitution, note = self.split_meaning(meaning, item['plural'])
+                entry.add_meaning(Meaning(substitution, note))
+        elif spider.name == MC_SPIDER_NAME:
+            try:
+                entry.set_synonym_of(item['synonymOf'])
+            except KeyError:
+                entry.add_meaning(Meaning(item['substitution'], item['note']))
         return object_to_dict(entry)
