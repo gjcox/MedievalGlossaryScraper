@@ -12,6 +12,7 @@ class Meaning:
 class GlossaryEntry:
     plaintext: str
     meanings: List[Meaning]
+    synonymOf: str # I know that Python uses snakecase, but this is for use in JS
 
     def __init__(self, plaintext: str) -> None:
         self.plaintext = plaintext.strip().lower()
@@ -21,7 +22,15 @@ class GlossaryEntry:
         return str(self)
 
     def __str__(self):
-        return f"{self.plaintext} - {"; ".join(map(lambda m: m.substitution, self.meanings))}"
+        if self.synonymOf: 
+            return f"{self.plaintext} - synonym of {self.synonymOf}"
+        elif self.meanings:
+            return f"{self.plaintext} - {"; ".join(map(lambda m: m.substitution, self.meanings))}"
+        else:
+            return self.plaintext
 
     def add_meaning(self, meaning: Meaning) -> None:
         self.meanings.append(meaning)
+
+    def set_synonym_of(self, synonym_of: str) -> None:
+        self.synonymOf = synonym_of
