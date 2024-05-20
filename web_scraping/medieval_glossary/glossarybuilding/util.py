@@ -1,7 +1,19 @@
 import re 
 
+HTML_TAG_PATTERN = re.compile(r"<.*?>")
+NEWLINE_PATTERN = re.compile(r"\n")
+AMPERSAND_PATTERN = re.compile(r"&amp;")
+DOUBLE_SPACE_PATTERN = re.compile(r"\s\s+")
+
 PLURAL_PATTERN = re.compile(r"\(e?s\)")
 OPTIONAL_PATTERN = re.compile(r"\(\w+\)")
+
+def clean_glossary_entry(list_item: str) -> str:
+    clean_html = re.sub(HTML_TAG_PATTERN, "", list_item)
+    no_line_breaks = re.sub(NEWLINE_PATTERN, " ", clean_html)
+    no_amberspand = re.sub(AMPERSAND_PATTERN, "and", no_line_breaks)
+    no_double_space = re.sub(DOUBLE_SPACE_PATTERN, " ", no_amberspand)
+    return no_double_space.strip()
 
 def matches_plural_pattern(string: str):
     return re.search(PLURAL_PATTERN, string)
@@ -44,3 +56,4 @@ def object_to_dict(obj):
         return {key: object_to_dict(value) for key, value in obj.__dict__.items()}
 
     return str(obj)  # Fallback for unsupported types
+    
