@@ -3,9 +3,9 @@ import scrapy
 from typing import List
 
 from medieval_glossary.glossarybuilding.glossary import GlossaryEntry, Meaning
-from web_scraping.medieval_glossary.glossarybuilding.util import get_singular, get_plural, object_to_dict
-from web_scraping.medieval_glossary.spiders.medievalcookery import SPIDER_NAME as MC_SPIDER_NAME
-from web_scraping.medieval_glossary.spiders.godecookery import SPIDER_NAME as GC_SPIDER_NAME
+from medieval_glossary.glossarybuilding.util import get_singular, get_plural, object_to_dict
+from medieval_glossary.spiders.medievalcookery import SPIDER_NAME as MC_SPIDER_NAME
+from medieval_glossary.spiders.godecookery import SPIDER_NAME as GC_SPIDER_NAME
 
 # Define your item pipelines here
 #

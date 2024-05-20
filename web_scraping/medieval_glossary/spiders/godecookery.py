@@ -6,7 +6,7 @@ from typing import Any, Generator
 
 from scrapy.http import Response
 
-from web_scraping.medieval_glossary.glossarybuilding.util import matches_plural_pattern, get_singular, get_plural, \
+from medieval_glossary.glossarybuilding.util import matches_plural_pattern, get_singular, get_plural, \
     matches_optional_pattern, get_with_optional, get_without_optional, clean_glossary_entry
 
 SPIDER_NAME = "godecookeryglossary"

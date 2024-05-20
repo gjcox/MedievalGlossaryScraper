@@ -6,11 +6,11 @@ from typing import Any, Generator
 
 from scrapy.http import Response
 
-from web_scraping.medieval_glossary.glossarybuilding.util import clean_glossary_entry
+from medieval_glossary.glossarybuilding.util import clean_glossary_entry
 
 SPIDER_NAME = "medievalcookeryglossary"
 GLOSSARY_ROOT_URL = "https://medievalcookery.com/dictionary/"
-GLOSSARY_PATTERN = re.compile(r"dictionary/index.html\?[a-z]")
+GLOSSARY_PATTERN = re.compile(r"index.html\?[a-z]")
 
 def split_mc_plaintexts(string: str):
     PATTERN = r"(?P<plaintext>(?:\w+\s)+)(?:\(also: )(?P<alt_plaintexts>(?:[\w\s]+(?:,\s)?)+)(?:\))"
@@ -20,7 +20,7 @@ def split_mc_plaintexts(string: str):
         synonyms = m.group('alt_plaintexts').split(", ")
         return [plaintext, synonyms]
     else:
-        return [string, None]
+        return [string, []]
 
 def split_mc_meaning(string: str):
     PATTERN = r"(?P<substitution>[^,\.\(]+)(?P<note>.*)"
