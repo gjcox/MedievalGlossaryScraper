@@ -10,6 +10,8 @@ DELETION_PLACEHOLDER = "~"
 
 def combine_entries(one: Dict[str,str], two: Dict[str, str]):
     combined_entry = {PLAINTEXT: one[PLAINTEXT], MERGED: True}
+    if combined_entry[PLAINTEXT] == DELETION_PLACEHOLDER:
+        return combined_entry
     # Each entry should have either a 'meanings' key or a 'synonymOf' key
     # If both entries have meanings then the list are combined
     # In the event that both only have synonymOf keys, the latter is lost
@@ -29,8 +31,11 @@ def combine_entries(one: Dict[str,str], two: Dict[str, str]):
         try: 
             combined_entry[MEANINGS] = two[MEANINGS]
         except KeyError: 
-            print(f"{one[PLAINTEXT]} has lost synonymOf({two[SYNONYM]}): {combined_entry}")
-            pass
+            try:
+                if combined_entry[SYNONYM] != two[SYNONYM]:
+                    print(f"{one[PLAINTEXT]} has lost synonymOf({two[SYNONYM]}): {combined_entry}")
+            except KeyError:
+                print(f"{combined_entry} may have lost something from: {one} + {two}")
     return combined_entry
 
 
