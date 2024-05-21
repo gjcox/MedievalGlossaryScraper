@@ -1,0 +1,1589 @@
+{"plaintext": "a-boue", "meanings": [{"substitution": "on top"}]}
+{"plaintext": "a-bought", "meanings": [{"substitution": "about"}]}
+{"plaintext": "a-bouwe", "synonymOf": "a-boue"}
+{"plaintext": "a-bowte", "synonymOf": "a-bought"}
+{"plaintext": "a-brode", "meanings": [{"substitution": "abroad"}]}
+{"plaintext": "a-doun", "meanings": [{"substitution": "down", "note": "off the fire"}]}
+{"plaintext": "a-downe", "synonymOf": "a-doun"}
+{"plaintext": "a-force", "meanings": [{"substitution": "reinforce", "note": "it is the same word as \"farce,\" meaning to stuff, and somehow the word came to also mean the adding of additional bulk to a recipe"}, {"substitution": "strengthen"}]}
+{"plaintext": "a-forsyd", "meanings": [{"substitution": "reinforced"}, {"substitution": "padded out"}]}
+{"plaintext": "a-lay", "meanings": [{"substitution": "allay"}, {"substitution": "mix"}, {"substitution": "weaken"}, {"substitution": "dilute"}, {"substitution": "stretch", "note": "increase quantity as in the watering of soup or padding out of meatballs with bread crumbs"}, {"substitution": "season"}]}
+{"plaintext": "a-ly", "synonymOf": "a-lay"}
+{"plaintext": "a-lye", "synonymOf": "a-lay"}
+{"plaintext": "a-ryse", "meanings": [{"substitution": "rise", "note": "raise (as bread)"}]}
+{"plaintext": "a-rysith", "meanings": [{"substitution": "rises"}]}
+{"plaintext": "a-zen", "meanings": [{"substitution": "again"}]}
+{"plaintext": "abaten", "meanings": [{"substitution": "diminish"}]}
+{"plaintext": "abeon", "meanings": [{"substitution": "be"}]}
+{"plaintext": "aboutze", "meanings": [{"substitution": "about"}, {"substitution": "all around the edge", "note": "in some recipes it means where the lid meets the pot"}]}
+{"plaintext": "abouwyn", "synonymOf": "a-boue"}
+{"plaintext": "abouyn", "synonymOf": "a-boue"}
+{"plaintext": "abowe", "synonymOf": "a-boue"}
+{"plaintext": "abrode", "meanings": [{"substitution": "broadly", "note": "i.e. flat"}]}
+{"plaintext": "abyndoun", "meanings": [{"substitution": "probably a transcription error for \"amidon\"", "note": "Wheat starch, or occasionally rye starch. Corn starch can be used as a modern substitute"}]}
+{"plaintext": "acorde", "meanings": [{"substitution": "blend"}]}
+{"plaintext": "ad faciendum", "meanings": [{"substitution": "to make"}]}
+{"plaintext": "adoun", "synonymOf": "a-doun"}
+{"plaintext": "adres", "meanings": [{"substitution": "arrange for serving"}]}
+{"plaintext": "adresse", "synonymOf": "adres"}
+{"plaintext": "adressed", "synonymOf": "adres"}
+{"plaintext": "aein", "meanings": [{"substitution": "in"}]}
+{"plaintext": "aeyn", "synonymOf": "a-zen"}
+{"plaintext": "aforce", "meanings": [{"substitution": "to stuff", "note": "(from French)"}]}
+{"plaintext": "aftere", "meanings": [{"substitution": "after"}]}
+{"plaintext": "aftere þat", "meanings": [{"substitution": "in proportion to what"}]}
+{"plaintext": "aftermelk", "meanings": [{"substitution": "milk made with ground nuts which have been strained from a \"first milk\""}]}
+{"plaintext": "ah", "meanings": [{"substitution": "but"}]}
+{"plaintext": "al", "meanings": [{"substitution": "all"}]}
+{"plaintext": "al a-brode", "meanings": [{"substitution": "all over the surface"}]}
+{"plaintext": "al þat", "meanings": [{"substitution": "until"}]}
+{"plaintext": "alay", "merged": true, "synonymOf": "a-lay", "meanings": [{"substitution": "to mix with", "note": "Similar to temper"}]}
+{"plaintext": "alayed", "synonymOf": "lyed"}
+{"plaintext": "alegar", "meanings": [{"substitution": "malt vinegar"}]}
+{"plaintext": "alegur", "merged": true, "meanings": [{"substitution": "malt vinegar"}], "synonymOf": "alegar"}
+{"plaintext": "alepeurre", "meanings": [{"substitution": "oil pepper"}]}
+{"plaintext": "aley", "synonymOf": "a-lay"}
+{"plaintext": "alich", "meanings": [{"substitution": "alike"}]}
+{"plaintext": "alisaunder", "meanings": [{"substitution": "black loveage", "note": "(Smyrnium olusatrum)"}]}
+{"plaintext": "alkanet", "meanings": [{"substitution": "dyer's bugloss", "note": "(Alkanna tinctoria) or possibly Common Bugloss (Anchusa officinalis). A member of the Borage family. A red colorant"}]}
+{"plaintext": "alkenade", "meanings": [{"substitution": "alkanet"}, {"substitution": "red dye made from the root of a plant so named (or \"orcanet\")"}, {"substitution": "a member of the bugloss family"}]}
+{"plaintext": "alkenet", "merged": true, "meanings": [{"substitution": "red dye made from the root of a plant so named (or \"orcanet\")"}, {"substitution": "a member of the bugloss family"}], "synonymOf": "alkanet"}
+{"plaintext": "alkyn", "meanings": [{"substitution": "all kinds", "note": "various"}]}
+{"plaintext": "allemaundys", "meanings": [{"substitution": "almonds"}]}
+{"plaintext": "allowe", "meanings": [{"substitution": "a meat roll", "note": "usually veal. Possibly from the French word for \"dove\", which such rolls may be meant to resemble"}]}
+{"plaintext": "almandys", "synonymOf": "allemaundys"}
+{"plaintext": "almaun", "meanings": [{"substitution": "almond"}]}
+{"plaintext": "almaund mylke", "synonymOf": "mylke of almaudys"}
+{"plaintext": "almaunde", "synonymOf": "almaun"}
+{"plaintext": "almaundes", "synonymOf": "allemaundys"}
+{"plaintext": "almaundis", "synonymOf": "allemaundys"}
+{"plaintext": "almaundys", "synonymOf": "allemaundys"}
+{"plaintext": "almayne", "merged": true, "meanings": [{"substitution": "Germany"}, {"substitution": "often gets confused with \"almonds\""}, {"substitution": "german", "note": "In the German style"}]}
+{"plaintext": "almaynne", "synonymOf": "almayne"}
+{"plaintext": "almondes", "synonymOf": "allemaundys"}
+{"plaintext": "aloes", "meanings": [{"substitution": "stuffed meat rolls", "note": "resembling \"veal birds\""}]}
+{"plaintext": "aloh", "meanings": [{"substitution": "although"}]}
+{"plaintext": "alows", "meanings": [{"substitution": "corruption of French aloyaux", "note": "which were short ribs"}]}
+{"plaintext": "als", "meanings": [{"substitution": "as"}]}
+{"plaintext": "aly", "synonymOf": "alay"}
+{"plaintext": "alye", "merged": true, "synonymOf": "a-lay"}
+{"plaintext": "alysaundre", "synonymOf": "alisaunder"}
+{"plaintext": "alyth", "synonymOf": "alay"}
+{"plaintext": "amidon", "meanings": [{"substitution": "wheat starch", "note": "or occasionally rye starch. Corn starch can be used as a modern substitute"}]}
+{"plaintext": "amnidoun", "meanings": [{"substitution": "wheat starch", "note": "used to thicken sauces. Gerard reports that a type of spelt called Triticeum Amyleum, Amyleum Frumentum, or starch corn, was grown for just this purpose"}]}
+{"plaintext": "amodyn", "synonymOf": "amnidoun"}
+{"plaintext": "amodyne", "synonymOf": "amnidoun"}
+{"plaintext": "amole", "meanings": [{"substitution": "apple"}]}
+{"plaintext": "amydon", "synonymOf": "amnidoun"}
+{"plaintext": "amydoun", "synonymOf": "amidon"}
+{"plaintext": "an", "meanings": [{"substitution": "and", "note": "almost always means \"and\""}, {"substitution": "an"}]}
+{"plaintext": "and", "meanings": [{"substitution": "and"}, {"substitution": "if", "note": "sometimes can mean \"if\""}]}
+{"plaintext": "aneys", "meanings": [{"substitution": "anise"}, {"substitution": "aniseed"}]}
+{"plaintext": "angeylles", "meanings": [{"substitution": "eels"}]}
+{"plaintext": "angoyles", "synonymOf": "angeylles"}
+{"plaintext": "anoon", "meanings": [{"substitution": "at once", "note": "in due course"}]}
+{"plaintext": "anys", "merged": true, "synonymOf": "aneys"}
+{"plaintext": "anys in comfyte or confite", "meanings": [{"substitution": "anise preserved in sugar"}]}
+{"plaintext": "anyse", "merged": true, "synonymOf": "aneys"}
+{"plaintext": "aplyn", "meanings": [{"substitution": "apples"}]}
+{"plaintext": "appeltre", "meanings": [{"substitution": "apple tree"}]}
+{"plaintext": "appleen", "synonymOf": "aplyn"}
+{"plaintext": "applemus", "meanings": [{"substitution": "a sweet sort of apple pudding", "note": "usually containing almond milk"}]}
+{"plaintext": "applys", "synonymOf": "aplyn"}
+{"plaintext": "appulmos", "synonymOf": "applemus"}
+{"plaintext": "appulmoy", "synonymOf": "applemus"}
+{"plaintext": "appyl", "synonymOf": "amole"}
+{"plaintext": "apulmos", "synonymOf": "applemus"}
+{"plaintext": "aqua ardaunt", "meanings": [{"substitution": "spirits", "note": "brandy, or aqua vite"}, {"substitution": "distilled spirits"}]}
+{"plaintext": "aqua ardente", "synonymOf": "aqua ardaunt"}
+{"plaintext": "aquapatys", "meanings": [{"substitution": "garlic boiled in water and oil"}]}
+{"plaintext": "aray", "meanings": [{"substitution": "dress", "note": "cook"}]}
+{"plaintext": "arbolettys", "meanings": [{"substitution": "a baked dish of herbs with eggs"}]}
+{"plaintext": "archayne", "synonymOf": "alkenade"}
+{"plaintext": "ardaunt", "meanings": [{"substitution": "distilled spirits", "note": "such as brandy"}]}
+{"plaintext": "armed", "meanings": [{"substitution": "lard", "note": "larded"}]}
+{"plaintext": "arn", "synonymOf": "abeon"}
+{"plaintext": "asay", "meanings": [{"substitution": "test"}]}
+{"plaintext": "askes", "meanings": [{"substitution": "ashes"}]}
+{"plaintext": "assone", "meanings": [{"substitution": "as soon"}]}
+{"plaintext": "aster", "meanings": [{"substitution": "Easter"}]}
+{"plaintext": "at boyling", "meanings": [{"substitution": "at boiling point"}]}
+{"plaintext": "atte", "meanings": [{"substitution": "at", "note": "at the"}]}
+{"plaintext": "atyre", "meanings": [{"substitution": "dress", "note": "prepare"}]}
+{"plaintext": "auance", "merged": true, "meanings": [{"substitution": "avens", "note": "an herb"}], "synonymOf": "avens"}
+{"plaintext": "auter", "meanings": [{"substitution": "other"}]}
+{"plaintext": "autre", "synonymOf": "auter"}
+{"plaintext": "avens", "meanings": [{"substitution": "avens", "note": "(Geum urbanum). A member of the rose family common to England and much of Europe. Has medicinal as well as culinary uses"}]}
+{"plaintext": "axit", "meanings": [{"substitution": "requires"}]}
+{"plaintext": "ayen", "synonymOf": "a-zen"}
+{"plaintext": "aymers", "meanings": [{"substitution": "embers"}]}
+{"plaintext": "ayren", "merged": true, "meanings": [{"substitution": "egg"}, {"substitution": "eggs", "note": "(from German)"}]}
+{"plaintext": "ayrenn", "synonymOf": "ayren"}
+{"plaintext": "aysell", "merged": true, "meanings": [{"substitution": "vinegar", "note": "usually cider vinegar"}, {"substitution": "apple cider vinegar"}]}
+{"plaintext": "azenward", "meanings": [{"substitution": "once more"}]}
+{"plaintext": "bake flour", "meanings": [{"substitution": "flour processed to dissolve easily"}]}
+{"plaintext": "bakinde", "meanings": [{"substitution": "baking"}, {"substitution": "this probably means a batter of egg yolk and flour is used to \"gild\" roasting meat while it bakes"}]}
+{"plaintext": "bakyn", "meanings": [{"substitution": "baked"}, {"substitution": "baking"}]}
+{"plaintext": "balloc broth", "meanings": [{"substitution": "a fish stew", "note": "May be a transcription or copying error for \"ballow\""}]}
+{"plaintext": "balourgly", "synonymOf": "balloc broth"}
+{"plaintext": "barbel", "meanings": [{"substitution": "a carp-like freshwater fish", "note": "(genus Barbus)"}]}
+{"plaintext": "bastard", "meanings": [{"substitution": "a sweet wine of the time"}]}
+{"plaintext": "bataillyng", "meanings": [{"substitution": "furnished with battlements"}]}
+{"plaintext": "bataiwyng", "meanings": [{"substitution": "crenellations", "note": "Having battlements"}]}
+{"plaintext": "bater", "meanings": [{"substitution": "batter"}]}
+{"plaintext": "batur", "synonymOf": "bater"}
+{"plaintext": "bature", "synonymOf": "bater"}
+{"plaintext": "baude", "meanings": [{"substitution": "to cut in thin slices"}]}
+{"plaintext": "bawde", "synonymOf": "baude"}
+{"plaintext": "be", "meanings": [{"substitution": "by"}]}
+{"plaintext": "beforne", "meanings": [{"substitution": "beforehand"}]}
+{"plaintext": "ben", "meanings": [{"substitution": "is"}, {"substitution": "are"}, {"substitution": "be"}]}
+{"plaintext": "bene koddys", "meanings": [{"substitution": "bean pods"}]}
+{"plaintext": "benes", "meanings": [{"substitution": "beans"}]}
+{"plaintext": "benyme", "meanings": [{"substitution": "detract"}]}
+{"plaintext": "beofe", "meanings": [{"substitution": "beef"}]}
+{"plaintext": "beon", "synonymOf": "abeon"}
+{"plaintext": "beor", "meanings": [{"substitution": "bear"}]}
+{"plaintext": "beoþ", "synonymOf": "abeon"}
+{"plaintext": "bere", "synonymOf": "beor"}
+{"plaintext": "berm", "merged": true, "meanings": [{"substitution": "liquid yeast", "note": "as contained in the froth of fermenting malt liquor, used for leavening"}, {"substitution": "yeast", "note": "usually as foam from brewing beer or ale"}]}
+{"plaintext": "berme", "synonymOf": "berm"}
+{"plaintext": "berst", "meanings": [{"substitution": "burst"}]}
+{"plaintext": "bersten", "synonymOf": "berst"}
+{"plaintext": "beste", "meanings": [{"substitution": "animal", "note": "beast"}, {"substitution": "best"}]}
+{"plaintext": "bet", "meanings": [{"substitution": "beat"}]}
+{"plaintext": "betany", "meanings": [{"substitution": "betony", "note": "(Stachys officinalis), also known as woundwort and common hedgenettle. A member of the mint family"}]}
+{"plaintext": "betayn", "synonymOf": "betany"}
+{"plaintext": "bete", "meanings": [{"substitution": "beet", "note": "i.e. beet greens: the root was not yet in common use as late as Gerard's time"}]}
+{"plaintext": "betes", "meanings": [{"substitution": "beet greens"}]}
+{"plaintext": "betor", "meanings": [{"substitution": "bittern", "note": "(Botaurus stellaris). A large wading bird of the heron family"}]}
+{"plaintext": "betus", "synonymOf": "betes"}
+{"plaintext": "bitore", "merged": true, "meanings": [{"substitution": "bittern"}], "synonymOf": "betor"}
+{"plaintext": "bitour", "synonymOf": "bitore"}
+{"plaintext": "bladys", "meanings": [{"substitution": "leaves"}]}
+{"plaintext": "blake", "meanings": [{"substitution": "black"}]}
+{"plaintext": "blake sugre", "meanings": [{"substitution": "black sugar", "note": "Spanich licorice juice"}]}
+{"plaintext": "blamang", "synonymOf": "blanc manger"}
+{"plaintext": "blanc", "meanings": [{"substitution": "white", "note": "(from French)"}]}
+{"plaintext": "blanc desire", "synonymOf": "desire"}
+{"plaintext": "blanc manger", "merged": true, "meanings": [{"substitution": "a dish usually made of rice and chicken"}], "synonymOf": "maunger"}
+{"plaintext": "blanche", "synonymOf": "blanc"}
+{"plaintext": "blanche pouder", "meanings": [{"substitution": "powder douce", "note": "a mixture of powdered cinnamon, ginger, and nutmeg, with variations"}]}
+{"plaintext": "blank", "synonymOf": "blanc"}
+{"plaintext": "blank powder", "synonymOf": "blanche pouder"}
+{"plaintext": "blanke", "synonymOf": "blanc"}
+{"plaintext": "blaunche", "synonymOf": "blanc"}
+{"plaintext": "blaunched", "meanings": [{"substitution": "blanched"}, {"substitution": "for almonds", "note": "this means removing the skin"}]}
+{"plaintext": "blausedes", "meanings": [{"substitution": "blossoms"}]}
+{"plaintext": "blawnche pouder", "synonymOf": "blanche pouder"}
+{"plaintext": "bliue", "meanings": [{"substitution": "quickly"}]}
+{"plaintext": "blod", "meanings": [{"substitution": "blood"}, {"substitution": "bleed"}]}
+{"plaintext": "blode", "synonymOf": "blod"}
+{"plaintext": "blomanger", "synonymOf": "blanc manger"}
+{"plaintext": "blomes", "synonymOf": "blausedes"}
+{"plaintext": "boillam", "meanings": [{"substitution": "boil"}]}
+{"plaintext": "bokenade", "meanings": [{"substitution": "potage or stew"}]}
+{"plaintext": "bolas", "merged": true, "meanings": [{"substitution": "bullace plums"}, {"substitution": "plums"}]}
+{"plaintext": "boll", "meanings": [{"substitution": "bowl"}]}
+{"plaintext": "bolle", "synonymOf": "boll"}
+{"plaintext": "bolt", "meanings": [{"substitution": "emerge"}]}
+{"plaintext": "bonte", "meanings": [{"substitution": "a linen sieve"}]}
+{"plaintext": "boor", "meanings": [{"substitution": "boar"}]}
+{"plaintext": "borage", "merged": true, "meanings": [{"substitution": "a European herb", "note": "formally much in use as a potherb. The blue flowers are probably what is called for in salad recipes"}, {"substitution": "common borage", "note": "(Borago officinalis). A kitchen herb common across Europe. Borage flowers are blue"}]}
+{"plaintext": "bord", "meanings": [{"substitution": "table"}]}
+{"plaintext": "borde", "meanings": [{"substitution": "board"}, {"substitution": "sometimes a cutting board"}]}
+{"plaintext": "bosewes", "meanings": [{"substitution": "a type of tart"}]}
+{"plaintext": "boter", "meanings": [{"substitution": "butter"}]}
+{"plaintext": "botere", "synonymOf": "boter"}
+{"plaintext": "bothum", "meanings": [{"substitution": "bottom"}]}
+{"plaintext": "bothyn", "synonymOf": "bothum"}
+{"plaintext": "botmon", "synonymOf": "bothum"}
+{"plaintext": "botores", "meanings": [{"substitution": "bittern", "note": "a marsh-fowl related to the heron"}]}
+{"plaintext": "bottes", "meanings": [{"substitution": "butts"}, {"substitution": "buttocks"}]}
+{"plaintext": "bourreys", "meanings": [{"substitution": "a dish made in the form of little", "note": "filled pastry pouches. (from French bourse)"}]}
+{"plaintext": "bouwes", "meanings": [{"substitution": "bows"}]}
+{"plaintext": "bowes", "meanings": [{"substitution": "boughs"}]}
+{"plaintext": "bowres", "synonymOf": "bourreys"}
+{"plaintext": "boyle", "synonymOf": "boillam"}
+{"plaintext": "boyling", "meanings": [{"substitution": "boiling"}]}
+{"plaintext": "boyste", "meanings": [{"substitution": "box"}]}
+{"plaintext": "boþe", "meanings": [{"substitution": "both"}]}
+{"plaintext": "braan", "merged": true, "meanings": [{"substitution": "bran"}], "synonymOf": "brawn"}
+{"plaintext": "brann", "synonymOf": "brawn"}
+{"plaintext": "branne", "synonymOf": "brawn"}
+{"plaintext": "brasele", "meanings": [{"substitution": "braise"}]}
+{"plaintext": "brasey", "meanings": [{"substitution": "braised"}]}
+{"plaintext": "brasyll", "meanings": [{"substitution": "brazil wood", "note": "an East Indian tree used for colouring"}]}
+{"plaintext": "brauens", "meanings": [{"substitution": "brains"}]}
+{"plaintext": "braun", "synonymOf": "brawn"}
+{"plaintext": "brawn", "merged": true, "meanings": [{"substitution": "flesh", "note": "originally just the lean, dark muscle meat, but in Medieval recipes the word is not always used in this specific sense"}, {"substitution": "flesh", "note": "The term is aparently only applied to meat (compared to \"char\" which can mean meat but was also used for the flesh of fruit)"}]}
+{"plaintext": "bray", "merged": true, "meanings": [{"substitution": "pound"}, {"substitution": "rub"}, {"substitution": "grind"}, {"substitution": "pound in a mortar"}, {"substitution": "to grind"}]}
+{"plaintext": "bre", "meanings": [{"substitution": "broth"}]}
+{"plaintext": "bred", "meanings": [{"substitution": "bread"}, {"substitution": "breadth"}]}
+{"plaintext": "brede", "synonymOf": "bred"}
+{"plaintext": "brem", "meanings": [{"substitution": "bream", "note": "a fish"}]}
+{"plaintext": "breme", "meanings": [{"substitution": "a general term for a number of species of freshwater and saltwater fish"}]}
+{"plaintext": "bren", "meanings": [{"substitution": "burn"}]}
+{"plaintext": "brende", "meanings": [{"substitution": "burned", "note": "burnt"}]}
+{"plaintext": "brennyd", "meanings": [{"substitution": "burnt"}]}
+{"plaintext": "brennyng", "meanings": [{"substitution": "burning"}]}
+{"plaintext": "breste", "synonymOf": "berst"}
+{"plaintext": "breth", "synonymOf": "bre"}
+{"plaintext": "brewet", "merged": true, "meanings": [{"substitution": "broth"}, {"substitution": "meat or other food cooked in broth"}, {"substitution": "a soup or stew", "note": "usually containing meat. (probably from French)"}]}
+{"plaintext": "brewis", "meanings": [{"substitution": "soaked bread", "note": "soaked in roast drippings, broth, gravy, etc"}]}
+{"plaintext": "brey", "merged": true, "synonymOf": "bray"}
+{"plaintext": "breþ", "meanings": [{"substitution": "air or steam"}]}
+{"plaintext": "briddes", "meanings": [{"substitution": "birds"}]}
+{"plaintext": "brineus", "meanings": [{"substitution": "blackberries"}]}
+{"plaintext": "bringen", "synonymOf": "aein"}
+{"plaintext": "brinkes", "meanings": [{"substitution": "edges"}]}
+{"plaintext": "brocche", "meanings": [{"substitution": "broach"}, {"substitution": "a roasting spit", "note": "or if small, a skewer"}]}
+{"plaintext": "broche", "merged": true, "synonymOf": "brocche", "meanings": [{"substitution": "a stick or skewer", "note": "(branch)"}]}
+{"plaintext": "bronde", "meanings": [{"substitution": "brand", "note": "burning firewood"}]}
+{"plaintext": "broyde", "meanings": [{"substitution": "braid"}, {"substitution": "weave"}]}
+{"plaintext": "broyden", "meanings": [{"substitution": "braided", "note": "past tense of Broyde"}, {"substitution": "woven"}]}
+{"plaintext": "broyt", "synonymOf": "bre"}
+{"plaintext": "bruet", "merged": true, "synonymOf": "brewet"}
+{"plaintext": "bruette", "meanings": [{"substitution": "a sauce or stew"}], "synonymOf": "brewet"}
+{"plaintext": "bruse", "meanings": [{"substitution": "grind", "note": "crush"}]}
+{"plaintext": "bryddys", "synonymOf": "briddes"}
+{"plaintext": "brymeus", "meanings": [{"substitution": "unknown", "note": "but may be a misspelling, transcription or copying error of a word meaning \"blackberries\""}]}
+{"plaintext": "brymlent", "synonymOf": "bosewes"}
+{"plaintext": "bryth", "meanings": [{"substitution": "bright"}]}
+{"plaintext": "buf", "synonymOf": "beofe"}
+{"plaintext": "buff", "synonymOf": "beofe"}
+{"plaintext": "bugloss", "synonymOf": "alkanet"}
+{"plaintext": "bukkenade", "meanings": [{"substitution": "a meat stew", "note": "(most often veal), usually including egg yolks"}]}
+{"plaintext": "buknade", "synonymOf": "bukkenade"}
+{"plaintext": "bullace", "synonymOf": "bolas"}
+{"plaintext": "bultyng cloþ", "meanings": [{"substitution": "a cloth used for sieving"}]}
+{"plaintext": "burage", "merged": true, "meanings": [{"substitution": "borage"}], "synonymOf": "borage"}
+{"plaintext": "buth", "synonymOf": "abeon"}
+{"plaintext": "buttes", "synonymOf": "bottes"}
+{"plaintext": "buttys", "synonymOf": "bottes"}
+{"plaintext": "by-neþe", "meanings": [{"substitution": "beneath"}]}
+{"plaintext": "byn", "meanings": [{"substitution": "is", "note": "or are"}]}
+{"plaintext": "bytour", "synonymOf": "botores"}
+{"plaintext": "caboches", "meanings": [{"substitution": "cabbage"}]}
+{"plaintext": "caboges", "meanings": [{"substitution": "cabbages"}]}
+{"plaintext": "cacche", "meanings": [{"substitution": "catch", "note": "as to stick to the bottom of the pan"}]}
+{"plaintext": "calues", "meanings": [{"substitution": "calves"}, {"substitution": "calves"}]}
+{"plaintext": "caluys", "synonymOf": "calues"}
+{"plaintext": "calvis", "synonymOf": "calues"}
+{"plaintext": "calwar", "meanings": [{"substitution": "a type or grade of salmon", "note": "May be related to \"calver\" salmon which is freshly caught and cleaned, or \"salar\" salmon which is young"}]}
+{"plaintext": "cameline", "meanings": [{"substitution": "a very common sauce containing cinnamon", "note": "May have originally been \"canneline\""}]}
+{"plaintext": "camelyne", "synonymOf": "cameline"}
+{"plaintext": "canel", "merged": true, "meanings": [{"substitution": "cinnamon", "note": "probably Cassia Bark"}, {"substitution": "cassia", "note": "(Cinnamomum cassia - Sold as \"cinnamon\" in the United States). Possibly cinnamon (Cinnamomum zeylenicum) as well"}]}
+{"plaintext": "canell", "synonymOf": "canel"}
+{"plaintext": "canelle", "synonymOf": "canel"}
+{"plaintext": "canett", "meanings": [{"substitution": "misspelling or transcription error for \"canell\""}]}
+{"plaintext": "carnel", "meanings": [{"substitution": "transcription error for \"caruel\" - brains"}]}
+{"plaintext": "carnoun", "meanings": [{"substitution": "transcription error for \"carvoun\"", "note": "(carved)"}]}
+{"plaintext": "caste", "meanings": [{"substitution": "add"}]}
+{"plaintext": "caudel", "merged": true, "meanings": [{"substitution": "caudle"}, {"substitution": "a smooth", "note": "thick soup or beverage, usually made with eggs"}]}
+{"plaintext": "cawdel", "synonymOf": "caudel"}
+{"plaintext": "cawdelle", "synonymOf": "caudel"}
+{"plaintext": "ceson", "meanings": [{"substitution": "season"}]}
+{"plaintext": "ceuere", "meanings": [{"substitution": "cover", "note": "in the case of a pie, it means to put on the top crust"}]}
+{"plaintext": "chaffer", "meanings": [{"substitution": "chauffer", "note": "a vat or pot for French-frying"}]}
+{"plaintext": "chaffre", "synonymOf": "chaffer"}
+{"plaintext": "char", "meanings": [{"substitution": "flesh", "note": "May refer to either the flesh of an animal or the flesh of a fruit"}]}
+{"plaintext": "charchant", "synonymOf": "chargeant"}
+{"plaintext": "charchaunt", "synonymOf": "chargeant"}
+{"plaintext": "charchaut", "synonymOf": "chargeant"}
+{"plaintext": "chard", "synonymOf": "char"}
+{"plaintext": "charde quynce", "meanings": [{"substitution": "quince \"meat\""}]}
+{"plaintext": "chare", "merged": true, "meanings": [{"substitution": "flesh"}, {"substitution": "meat", "note": "of fruits, nuts, etc. From French chair"}], "synonymOf": "char"}
+{"plaintext": "chargeant", "meanings": [{"substitution": "very thick", "note": "Chargeant seems to be somewhere between \"thick\" and \"stonding\" in consistency"}]}
+{"plaintext": "chargeaunt", "merged": true, "meanings": [{"substitution": "thick"}], "synonymOf": "chargeant"}
+{"plaintext": "chargeour", "merged": true, "meanings": [{"substitution": "charger"}, {"substitution": "large dish"}, {"substitution": "a large plate"}]}
+{"plaintext": "chargere", "synonymOf": "chargeour"}
+{"plaintext": "charghaunt", "synonymOf": "chargeant"}
+{"plaintext": "chariaud", "synonymOf": "chargeant"}
+{"plaintext": "chariaunt", "synonymOf": "chargeant"}
+{"plaintext": "charlet", "meanings": [{"substitution": "a dish made of minced meat boiled in milk"}]}
+{"plaintext": "chastletes", "meanings": [{"substitution": "filled paistry castles"}]}
+{"plaintext": "chaudon", "meanings": [{"substitution": "chawdron", "note": "derived from the same word as \"chowder\": chaudière, a kettle, pot, cauldron. It refers to dishes composed of or built around the viscera of fowl or animals"}]}
+{"plaintext": "chawd-wyne", "synonymOf": "chaudon"}
+{"plaintext": "chawdewyn", "synonymOf": "chaudon"}
+{"plaintext": "chawdon", "meanings": [{"substitution": "a dish made of organ meats"}]}
+{"plaintext": "chawdoun", "synonymOf": "chawdon"}
+{"plaintext": "chek", "meanings": [{"substitution": "chicken"}]}
+{"plaintext": "chepis", "meanings": [{"substitution": "sheep's"}]}
+{"plaintext": "chescun", "meanings": [{"substitution": "each one", "note": "(from French)"}]}
+{"plaintext": "chewetes", "meanings": [{"substitution": "small baked or fried pies"}]}
+{"plaintext": "chewette", "meanings": [{"substitution": "chewet", "note": "a kind of pie, originally made with chopped meat or fish"}]}
+{"plaintext": "chibolles", "meanings": [{"substitution": "scallions or spring onions"}]}
+{"plaintext": "chiches", "meanings": [{"substitution": "chick peas"}]}
+{"plaintext": "chryis", "meanings": [{"substitution": "cherries"}]}
+{"plaintext": "chyballes", "synonymOf": "chibolles"}
+{"plaintext": "chyches", "synonymOf": "chiches"}
+{"plaintext": "chykonys", "meanings": [{"substitution": "chickens"}]}
+{"plaintext": "chyrioun", "synonymOf": "chryis"}
+{"plaintext": "chyryoun", "synonymOf": "chryis"}
+{"plaintext": "cipris", "merged": true, "meanings": [{"substitution": "Cypris"}, {"substitution": "sugar of Cypris"}], "synonymOf": "cypress"}
+{"plaintext": "civey", "meanings": [{"substitution": "gravy made with onions"}]}
+{"plaintext": "clarefied", "meanings": [{"substitution": "clarified"}]}
+{"plaintext": "clarey", "synonymOf": "clary"}
+{"plaintext": "clarifie", "meanings": [{"substitution": "clarify"}]}
+{"plaintext": "clarry", "synonymOf": "clary"}
+{"plaintext": "clary", "meanings": [{"substitution": "clary sage", "note": "(Salvia sclarea)"}]}
+{"plaintext": "clees", "meanings": [{"substitution": "claws"}]}
+{"plaintext": "clen", "meanings": [{"substitution": "clean"}, {"substitution": "very"}, {"substitution": "quite"}]}
+{"plaintext": "clene", "synonymOf": "clen"}
+{"plaintext": "cleue", "meanings": [{"substitution": "cleave", "note": "adhere"}]}
+{"plaintext": "cleuyng", "meanings": [{"substitution": "sticking", "note": "cleaving"}]}
+{"plaintext": "cloue", "merged": true, "meanings": [{"substitution": "clove"}, {"substitution": "cloves"}]}
+{"plaintext": "clouen", "meanings": [{"substitution": "cloven"}]}
+{"plaintext": "clouys", "meanings": [{"substitution": "cloves"}]}
+{"plaintext": "clowes", "synonymOf": "clouys"}
+{"plaintext": "clowte", "meanings": [{"substitution": "cloth"}]}
+{"plaintext": "clowtys", "meanings": [{"substitution": "clotted"}]}
+{"plaintext": "clowys", "synonymOf": "clouys"}
+{"plaintext": "cod", "meanings": [{"substitution": "cod", "note": "(Gadus morhua)"}]}
+{"plaintext": "code", "synonymOf": "cod"}
+{"plaintext": "codlynd", "meanings": [{"substitution": "hake", "note": "a type of fish"}]}
+{"plaintext": "codlyng", "merged": true, "synonymOf": "codlynd"}
+{"plaintext": "coffyn", "merged": true, "meanings": [{"substitution": "bottom crust of a pie or tart"}, {"substitution": "pasty mould"}, {"substitution": "a pastry crust", "note": "often freestanding and rectangular"}]}
+{"plaintext": "cofyn", "merged": true, "synonymOf": "coffyn"}
+{"plaintext": "cofyne", "synonymOf": "coffyn"}
+{"plaintext": "cofynne", "synonymOf": "coffyn"}
+{"plaintext": "cofyns", "meanings": [{"substitution": "bottom crusts of pies or tarts"}, {"substitution": "pasty moulds"}]}
+{"plaintext": "cole", "merged": true, "meanings": [{"substitution": "cool"}, {"substitution": "any one of a number of leafy vegetables", "note": "usually a variant of cabbage (Brassica oleracea)"}]}
+{"plaintext": "coleys", "meanings": [{"substitution": "French coulis", "note": "a strained soup"}]}
+{"plaintext": "coliaundre", "meanings": [{"substitution": "coriander seed", "note": "(Coriandrum sativum)"}]}
+{"plaintext": "colous", "meanings": [{"substitution": "coals"}]}
+{"plaintext": "colyandre", "synonymOf": "coliaundre"}
+{"plaintext": "colys", "merged": true, "synonymOf": "colous", "meanings": [{"substitution": "a broth with finely ground meat"}]}
+{"plaintext": "comade", "merged": true, "meanings": [{"substitution": "mixture"}, {"substitution": "pastry filling"}]}
+{"plaintext": "comfery", "meanings": [{"substitution": "comfrey", "note": "(Symphytum officinale)"}]}
+{"plaintext": "comfyte", "merged": true, "meanings": [{"substitution": "preserved in sugar"}, {"substitution": "sugar coated seeds", "note": "(e.g. anise in confit), or fruit in syrup (e.g. pears in confit)"}]}
+{"plaintext": "commade", "synonymOf": "comade"}
+{"plaintext": "commelyche", "meanings": [{"substitution": "comely", "note": "seemly"}]}
+{"plaintext": "compost", "meanings": [{"substitution": "a dish of pickled fruits and vegetables"}]}
+{"plaintext": "composte", "meanings": [{"substitution": "compote"}]}
+{"plaintext": "comyn", "merged": true, "meanings": [{"substitution": "cumin seed"}, {"substitution": "cumin", "note": "(Cuminum cyminum)"}]}
+{"plaintext": "coneys", "meanings": [{"substitution": "rabbits"}]}
+{"plaintext": "confit", "synonymOf": "comfyte"}
+{"plaintext": "confyt", "synonymOf": "comfyte"}
+{"plaintext": "conger", "meanings": [{"substitution": "a type of marine eel"}]}
+{"plaintext": "congere", "meanings": [{"substitution": "congeree", "note": "a conger eel"}]}
+{"plaintext": "congur", "synonymOf": "conger"}
+{"plaintext": "connes", "meanings": [{"substitution": "quince", "note": "(from French)"}]}
+{"plaintext": "connynges", "merged": true, "meanings": [{"substitution": "conings", "note": "coneys (rabbits)"}], "synonymOf": "coneys"}
+{"plaintext": "conygys", "synonymOf": "connynges"}
+{"plaintext": "conynges", "synonymOf": "coneys"}
+{"plaintext": "conynggis", "synonymOf": "coneys"}
+{"plaintext": "conynggys", "synonymOf": "coneys"}
+{"plaintext": "cool", "synonymOf": "cole"}
+{"plaintext": "corance", "merged": true, "meanings": [{"substitution": "currants"}, {"substitution": "raisins made from corinth grapes", "note": "(a.k.a currants)"}]}
+{"plaintext": "coraunce", "merged": true, "synonymOf": "corance"}
+{"plaintext": "corauns", "merged": true, "synonymOf": "corance"}
+{"plaintext": "coraunte", "synonymOf": "corance"}
+{"plaintext": "cormarye", "meanings": [{"substitution": "pork marinated in spiced wine and roasted"}]}
+{"plaintext": "coronse", "synonymOf": "corance"}
+{"plaintext": "corys", "meanings": [{"substitution": "cores"}]}
+{"plaintext": "costardys", "meanings": [{"substitution": "costards", "note": "an English variety of apple"}]}
+{"plaintext": "costmary", "meanings": [{"substitution": "an herb"}, {"substitution": "alecost is another name for it"}]}
+{"plaintext": "costmarye", "meanings": [{"substitution": "costmary", "note": "(Tanacetum balsamita), also called alecost. A more aromatic relative of Tansy"}]}
+{"plaintext": "cotagres", "meanings": [{"substitution": "a roast dish made by sewing the top of a chicken to the back of a pig to look like a mytical animal", "note": "(cockatrice)"}]}
+{"plaintext": "couche", "meanings": [{"substitution": "lay"}]}
+{"plaintext": "countoer", "meanings": [{"substitution": "a top crust"}]}
+{"plaintext": "courance", "synonymOf": "corance"}
+{"plaintext": "cowche", "synonymOf": "couche"}
+{"plaintext": "coynes", "synonymOf": "connes"}
+{"plaintext": "craytoun", "meanings": [{"substitution": "a dish with a sauce made with milk"}]}
+{"plaintext": "creme", "meanings": [{"substitution": "a syrupy confection"}]}
+{"plaintext": "crodde", "meanings": [{"substitution": "curdle"}, {"substitution": "curd"}]}
+{"plaintext": "croddis", "meanings": [{"substitution": "curds"}]}
+{"plaintext": "croddys", "synonymOf": "croddis"}
+{"plaintext": "crome", "meanings": [{"substitution": "crumbs"}]}
+{"plaintext": "cromes", "synonymOf": "crome"}
+{"plaintext": "cromyd", "meanings": [{"substitution": "crumbled"}]}
+{"plaintext": "cromys", "synonymOf": "crome"}
+{"plaintext": "crudde", "synonymOf": "crodde"}
+{"plaintext": "cruddes", "meanings": [{"substitution": "curds or new cheese"}]}
+{"plaintext": "cruddis", "synonymOf": "croddis"}
+{"plaintext": "cruddys", "synonymOf": "croddis"}
+{"plaintext": "crustade", "meanings": [{"substitution": "pie"}]}
+{"plaintext": "crustardes", "meanings": [{"substitution": "a savory tart of eggs and meat", "note": "similar to quiche"}]}
+{"plaintext": "crustes", "meanings": [{"substitution": "crusts"}]}
+{"plaintext": "cryppys", "meanings": [{"substitution": "funnel cake"}]}
+{"plaintext": "cryspels", "meanings": [{"substitution": "thin fried crackers"}]}
+{"plaintext": "cryspes", "synonymOf": "cryppys"}
+{"plaintext": "cubebs", "meanings": [{"substitution": "piper cubeba)", "note": "A type of pepper with a citrus-like scent. Also called Tailed Pepper"}]}
+{"plaintext": "culdore", "meanings": [{"substitution": "colander"}]}
+{"plaintext": "culpe", "meanings": [{"substitution": "cut in thick slices"}]}
+{"plaintext": "curlew", "meanings": [{"substitution": "a large wading bird", "note": "(Numenius arquata), about 20 inches (50 cm) in length"}]}
+{"plaintext": "curlewe", "synonymOf": "curlew"}
+{"plaintext": "curnylles", "meanings": [{"substitution": "kernels"}, {"substitution": "nutmeats"}]}
+{"plaintext": "custard", "meanings": [{"substitution": "crustade"}]}
+{"plaintext": "cyee", "synonymOf": "civey"}
+{"plaintext": "cynee", "synonymOf": "civey"}
+{"plaintext": "cyney", "synonymOf": "civey"}
+{"plaintext": "cypre", "synonymOf": "cypress"}
+{"plaintext": "cypress", "meanings": [{"substitution": "much of the sugar was imported from cypress", "note": "leading highly sweetened dishes to be labeled as such (e.g. \"vyaunde cypre\")"}]}
+{"plaintext": "dace", "meanings": [{"substitution": "a freshwater fish of the carp family", "note": "(Leuciscus leuciscus)"}]}
+{"plaintext": "damsons", "synonymOf": "damysyns"}
+{"plaintext": "damysyns", "meanings": [{"substitution": "plums"}]}
+{"plaintext": "darioles", "meanings": [{"substitution": "sweet custard tarts"}]}
+{"plaintext": "daryoles", "meanings": [{"substitution": "darioles", "note": "which were meat tarts"}]}
+{"plaintext": "daryols", "synonymOf": "darioles"}
+{"plaintext": "dedyst", "meanings": [{"substitution": "did"}]}
+{"plaintext": "defaut", "meanings": [{"substitution": "default"}]}
+{"plaintext": "defaute", "synonymOf": "defaut"}
+{"plaintext": "defawte", "synonymOf": "defaut"}
+{"plaintext": "departe", "meanings": [{"substitution": "serve in conjunction with"}]}
+{"plaintext": "departyd", "meanings": [{"substitution": "to be served in conjunction with"}]}
+{"plaintext": "desire", "meanings": [{"substitution": "a thick soup made with poultry", "note": "rice, and milk"}]}
+{"plaintext": "desne", "synonymOf": "desire"}
+{"plaintext": "dessorre", "synonymOf": "desire"}
+{"plaintext": "dewte on þe eggys", "meanings": [{"substitution": "moiston the edges", "note": "to moiston and press edges together to seal them"}]}
+{"plaintext": "deye", "meanings": [{"substitution": "die"}]}
+{"plaintext": "dight", "merged": true, "synonymOf": "atyre", "meanings": [{"substitution": "to carve", "note": "The term is used exclusively for game birds"}]}
+{"plaintext": "ditany", "meanings": [{"substitution": "dittany", "note": "(Origanum dictamnus). Not to be confused with Cunila origanoides, which is a new-world plant"}]}
+{"plaintext": "ditayn", "synonymOf": "ditany"}
+{"plaintext": "diteyne", "meanings": [{"substitution": "dittany"}]}
+{"plaintext": "diting", "synonymOf": "dight"}
+{"plaintext": "diuerse", "meanings": [{"substitution": "divers"}, {"substitution": "various"}]}
+{"plaintext": "do", "meanings": [{"substitution": "add", "note": "\"do ther-to\""}, {"substitution": "place", "note": "put, set (\"do it on a potte,\" etc.)"}]}
+{"plaintext": "dokkes", "meanings": [{"substitution": "dough", "note": "A transcription error for \"dowes\""}]}
+{"plaintext": "don", "meanings": [{"substitution": "do"}]}
+{"plaintext": "dore", "meanings": [{"substitution": "glaze"}]}
+{"plaintext": "dore hem sum", "meanings": [{"substitution": "glaze some of them"}]}
+{"plaintext": "dorre", "meanings": [{"substitution": "corruption of French du roi: the king's"}]}
+{"plaintext": "dorroy", "meanings": [{"substitution": "of the king", "note": "corruption of French 'du roi'"}]}
+{"plaintext": "dorry", "merged": true, "synonymOf": "dorroy", "meanings": [{"substitution": "endored", "note": "Made golden. (from French)"}]}
+{"plaintext": "dorryes", "synonymOf": "dorry"}
+{"plaintext": "dorryle", "synonymOf": "dorry"}
+{"plaintext": "douce", "meanings": [{"substitution": "sweet", "note": "(from French)"}]}
+{"plaintext": "doucet", "meanings": [{"substitution": "sweetish"}]}
+{"plaintext": "doucettes", "meanings": [{"substitution": "little sweets"}]}
+{"plaintext": "douse", "synonymOf": "douce"}
+{"plaintext": "doust", "meanings": [{"substitution": "dust"}]}
+{"plaintext": "douste", "synonymOf": "doust"}
+{"plaintext": "dow", "meanings": [{"substitution": "dough"}]}
+{"plaintext": "dowce", "synonymOf": "douce"}
+{"plaintext": "dowcet", "synonymOf": "doucet"}
+{"plaintext": "dowcettys", "synonymOf": "doucettes"}
+{"plaintext": "draf", "meanings": [{"substitution": "lees"}, {"substitution": "dregs"}]}
+{"plaintext": "draw", "meanings": [{"substitution": "to temper", "note": "blend, etc"}]}
+{"plaintext": "drawe", "meanings": [{"substitution": "draw"}, {"substitution": "eviscerate"}, {"substitution": "draw through a strainer"}]}
+{"plaintext": "dregge", "meanings": [{"substitution": "dredge"}]}
+{"plaintext": "dresse", "meanings": [{"substitution": "to take to the table"}]}
+{"plaintext": "dressoure", "meanings": [{"substitution": "serving"}]}
+{"plaintext": "dressyste", "meanings": [{"substitution": "serve"}, {"substitution": "\"whan þou dressyste\" means \"when you serve it\""}]}
+{"plaintext": "droppings", "meanings": [{"substitution": "drippings"}]}
+{"plaintext": "dubbatte", "meanings": [{"substitution": "corruption of the French jus batarde", "note": "juice flavored with bastard, a sweet Spanish wine"}]}
+{"plaintext": "dysshe", "meanings": [{"substitution": "dish"}]}
+{"plaintext": "easly", "meanings": [{"substitution": "easily", "note": "gently"}]}
+{"plaintext": "eche a coffyn", "meanings": [{"substitution": "each coffin", "note": "each pie shell"}]}
+{"plaintext": "eerys", "meanings": [{"substitution": "ears"}]}
+{"plaintext": "eft", "synonymOf": "aftere"}
+{"plaintext": "efte", "synonymOf": "aftere"}
+{"plaintext": "egarduse", "meanings": [{"substitution": "a sweet and sour dish", "note": "(from French)"}]}
+{"plaintext": "egge", "meanings": [{"substitution": "edge"}]}
+{"plaintext": "egges", "meanings": [{"substitution": "eggs"}]}
+{"plaintext": "eggys", "synonymOf": "brinkes"}
+{"plaintext": "egredouncye", "meanings": [{"substitution": "sour-sweet"}, {"substitution": "corruption of French aigredoux"}]}
+{"plaintext": "egrete", "meanings": [{"substitution": "egret", "note": "a kind of heron"}]}
+{"plaintext": "egurdouce", "synonymOf": "egarduse"}
+{"plaintext": "eier", "merged": true, "meanings": [{"substitution": "air"}, {"substitution": "air"}]}
+{"plaintext": "eir", "meanings": [{"substitution": "air"}, {"substitution": "however", "note": "it can also mean ear"}]}
+{"plaintext": "eiren", "merged": true, "synonymOf": "egges", "meanings": [{"substitution": "eggs", "note": "(from German)"}]}
+{"plaintext": "eisel", "merged": true, "synonymOf": "eysel", "meanings": [{"substitution": "wine vinegar", "note": "(from French)"}]}
+{"plaintext": "ele", "meanings": [{"substitution": "eel", "note": "eels"}]}
+{"plaintext": "elena campana", "merged": true, "meanings": [{"substitution": "elecampane", "note": "a herb. The root was used for medicinal purposes and in Gerard's time was candied. Dishes made with Elecampane are apparently similar to those made with the herb Tansy"}, {"substitution": "elecampane", "note": "(Inula helenium), also known as Horse-heal"}]}
+{"plaintext": "eles", "synonymOf": "ele"}
+{"plaintext": "elle", "meanings": [{"substitution": "else"}]}
+{"plaintext": "elles", "synonymOf": "elle"}
+{"plaintext": "ellys", "synonymOf": "elle"}
+{"plaintext": "elren", "merged": true, "meanings": [{"substitution": "the Elder Tree"}, {"substitution": "elder tree", "note": "(Sambucus nigra)"}]}
+{"plaintext": "els", "synonymOf": "elle"}
+{"plaintext": "elys", "synonymOf": "ele"}
+{"plaintext": "enabbe", "meanings": [{"substitution": "have not", "note": "this is the negative form of the word habben"}, {"substitution": "has not"}]}
+{"plaintext": "enarme", "meanings": [{"substitution": "lard"}]}
+{"plaintext": "enarmed", "meanings": [{"substitution": "larded"}]}
+{"plaintext": "enarmyd", "synonymOf": "enarmed"}
+{"plaintext": "enche", "meanings": [{"substitution": "inch"}]}
+{"plaintext": "endelonge", "meanings": [{"substitution": "along"}]}
+{"plaintext": "endelonge þe spete", "meanings": [{"substitution": "along the spit"}]}
+{"plaintext": "endore", "merged": true, "meanings": [{"substitution": "gild", "note": "to apply a finish of tinted gold or other color"}, {"substitution": "glaze"}, {"substitution": "make golden", "note": "(from French)"}]}
+{"plaintext": "endored", "meanings": [{"substitution": "gilded", "note": "past tense of endore"}, {"substitution": "glazed"}]}
+{"plaintext": "endorre", "merged": true, "synonymOf": "endore"}
+{"plaintext": "endort", "synonymOf": "endored"}
+{"plaintext": "enforce", "synonymOf": "enforse"}
+{"plaintext": "enforse", "meanings": [{"substitution": "stuff", "note": "(from French)"}]}
+{"plaintext": "enlonge", "synonymOf": "endelonge"}
+{"plaintext": "entrayle", "meanings": [{"substitution": "entrail"}]}
+{"plaintext": "enula campana", "synonymOf": "elena campana"}
+{"plaintext": "eny", "meanings": [{"substitution": "any"}]}
+{"plaintext": "eowtes", "meanings": [{"substitution": "chopped herbs in broth", "note": "Most likely a transcription error for \"iowtes\""}]}
+{"plaintext": "erbeblade", "meanings": [{"substitution": "a baked dish of herbs with eggs"}]}
+{"plaintext": "erbes", "meanings": [{"substitution": "herbs"}]}
+{"plaintext": "erbis", "synonymOf": "erbes"}
+{"plaintext": "erbolates", "synonymOf": "erbeblade"}
+{"plaintext": "erbys", "synonymOf": "erbes"}
+{"plaintext": "ere", "merged": true, "meanings": [{"substitution": "or"}, {"substitution": "till"}, {"substitution": "before"}]}
+{"plaintext": "eren", "meanings": [{"substitution": "iron"}, {"substitution": "however", "note": "like eir it can also mean ear"}]}
+{"plaintext": "erne", "meanings": [{"substitution": "run"}]}
+{"plaintext": "eron", "merged": true, "synonymOf": "egges"}
+{"plaintext": "ert", "meanings": [{"substitution": "hart", "note": "deer"}]}
+{"plaintext": "erthe", "meanings": [{"substitution": "earth or earthenware"}]}
+{"plaintext": "erthen", "meanings": [{"substitution": "earthenware"}]}
+{"plaintext": "ery", "meanings": [{"substitution": "ear", "note": "ears"}]}
+{"plaintext": "erys", "synonymOf": "ery"}
+{"plaintext": "erþen", "synonymOf": "erthen"}
+{"plaintext": "erþyn", "synonymOf": "erthen"}
+{"plaintext": "eselich", "meanings": [{"substitution": "gently"}]}
+{"plaintext": "esely", "synonymOf": "eselich"}
+{"plaintext": "esy", "meanings": [{"substitution": "easy"}]}
+{"plaintext": "esy fyre", "meanings": [{"substitution": "slow fire", "note": "low heat"}]}
+{"plaintext": "ete", "meanings": [{"substitution": "eat"}]}
+{"plaintext": "etemele", "meanings": [{"substitution": "oatmeal"}]}
+{"plaintext": "eten", "meanings": [{"substitution": "eaten"}]}
+{"plaintext": "etyn", "synonymOf": "eten"}
+{"plaintext": "euarund", "meanings": [{"substitution": "garnished", "note": "May be a transcription error for \"armed\""}]}
+{"plaintext": "eue", "meanings": [{"substitution": "eve"}, {"substitution": "\"ouer eue\" is overnight"}]}
+{"plaintext": "euelong", "meanings": [{"substitution": "oblong"}]}
+{"plaintext": "euene", "meanings": [{"substitution": "even", "note": "evenly"}]}
+{"plaintext": "euer", "meanings": [{"substitution": "ever"}]}
+{"plaintext": "euery", "meanings": [{"substitution": "every", "note": "each"}]}
+{"plaintext": "euerych", "meanings": [{"substitution": "each one"}]}
+{"plaintext": "eurose", "meanings": [{"substitution": "rosewater"}]}
+{"plaintext": "euyne", "merged": true, "synonymOf": "euene", "meanings": [{"substitution": "evenly"}, {"substitution": "in some cases", "note": "fully or done"}]}
+{"plaintext": "ew ardaunt", "merged": true, "meanings": [{"substitution": "spirits", "note": "alcohol"}], "synonymOf": "ardaunt"}
+{"plaintext": "ey", "synonymOf": "ayren"}
+{"plaintext": "eyeron", "synonymOf": "egges"}
+{"plaintext": "eyren", "merged": true, "synonymOf": "egges"}
+{"plaintext": "eyrenn", "synonymOf": "eiren"}
+{"plaintext": "eyrin", "synonymOf": "eiren"}
+{"plaintext": "eyron", "synonymOf": "egges"}
+{"plaintext": "eyroun", "synonymOf": "egges"}
+{"plaintext": "eyryn", "synonymOf": "eiren"}
+{"plaintext": "eyrynn", "synonymOf": "eiren"}
+{"plaintext": "eysel", "merged": true, "meanings": [{"substitution": "eisel", "note": "wine vinegar, verjuice, or vinegar (usually cider vinegar)"}], "synonymOf": "eisel"}
+{"plaintext": "faire", "meanings": [{"substitution": "clean"}, {"substitution": "nice"}, {"substitution": "fairly good"}, {"substitution": "fairly large"}, {"substitution": "moderate-sized"}, {"substitution": "pretty"}, {"substitution": "fresh"}, {"substitution": "etc"}]}
+{"plaintext": "farce", "meanings": [{"substitution": "stuff"}]}
+{"plaintext": "farced", "meanings": [{"substitution": "stuffed"}]}
+{"plaintext": "farcyd", "synonymOf": "farced"}
+{"plaintext": "fars", "synonymOf": "farse"}
+{"plaintext": "farse", "meanings": [{"substitution": "to stuff", "note": "(from French)"}]}
+{"plaintext": "farsed", "synonymOf": "farced"}
+{"plaintext": "farsure", "merged": true, "meanings": [{"substitution": "forcemeat"}, {"substitution": "meat chopped fine and highly seasoned and used as stuffing", "note": "or served alone"}, {"substitution": "it also means \"mixture\". \"Make þin farsure\" (make thy mixture) means to put the ingredients together"}, {"substitution": "stuffing", "note": "(from French)"}]}
+{"plaintext": "farsyng", "meanings": [{"substitution": "stuffing"}, {"substitution": "sauce"}]}
+{"plaintext": "fast", "meanings": [{"substitution": "securely"}, {"substitution": "fast"}]}
+{"plaintext": "fayre", "synonymOf": "faire"}
+{"plaintext": "feel", "meanings": [{"substitution": "veal"}]}
+{"plaintext": "feneboiles", "meanings": [{"substitution": "boiled beans", "note": "Most likely a transcription or copy error for \"feve boiles\""}]}
+{"plaintext": "fenkel", "meanings": [{"substitution": "fennel"}]}
+{"plaintext": "fere", "meanings": [{"substitution": "\"in fere\" means \"y-fere:\" together"}]}
+{"plaintext": "fethur", "meanings": [{"substitution": "feather", "note": "often used as a glazing brush"}, {"substitution": "the quill-end was also used as a cutting device"}]}
+{"plaintext": "feþer", "synonymOf": "fethur"}
+{"plaintext": "ffarced", "synonymOf": "farced"}
+{"plaintext": "firmanty", "meanings": [{"substitution": "frumenty", "note": "a kind of porridge made from wheat"}]}
+{"plaintext": "flatte", "meanings": [{"substitution": "flat"}]}
+{"plaintext": "flaumpens", "meanings": [{"substitution": "pork pies"}]}
+{"plaintext": "flaumpeyns", "synonymOf": "flaumpens"}
+{"plaintext": "flaunne", "meanings": [{"substitution": "baste", "note": "Most likely a transcription error for \"flamme\""}]}
+{"plaintext": "fle", "meanings": [{"substitution": "flay", "note": "take the skin off"}]}
+{"plaintext": "floryssche", "meanings": [{"substitution": "garnish"}]}
+{"plaintext": "flos campy flour", "meanings": [{"substitution": "floscampy is a small red wildflower"}]}
+{"plaintext": "floures of ye rede vyne", "meanings": [{"substitution": "flower of wine is a scum of yeast fungi that forms on top of wine during fermantation and which is very rich in food values"}]}
+{"plaintext": "flownys", "synonymOf": "flaunne"}
+{"plaintext": "foil", "synonymOf": "foyle"}
+{"plaintext": "foile", "meanings": [{"substitution": "a thin sheet or leaf", "note": "(from French)"}]}
+{"plaintext": "fondew", "meanings": [{"substitution": "melted", "note": "(from French)"}]}
+{"plaintext": "for", "meanings": [{"substitution": "for"}, {"substitution": "for fear of"}]}
+{"plaintext": "for þe schullys", "meanings": [{"substitution": "on account of the pieces of the shell"}]}
+{"plaintext": "force", "synonymOf": "farse"}
+{"plaintext": "forced", "merged": true, "meanings": [{"substitution": "reinforced", "note": "other things added"}, {"substitution": "stuffed", "note": "(from French)"}]}
+{"plaintext": "forcyd", "synonymOf": "forced"}
+{"plaintext": "forde faute of", "meanings": [{"substitution": "lacking"}, {"substitution": "for defaute of"}]}
+{"plaintext": "forlonge", "meanings": [{"substitution": "furlong"}, {"substitution": "the length of time it takes to go a furlong"}]}
+{"plaintext": "formenty", "meanings": [{"substitution": "frumenty", "note": "a kind of porridge made from wheat"}]}
+{"plaintext": "formete", "synonymOf": "formenty"}
+{"plaintext": "fors", "synonymOf": "farse"}
+{"plaintext": "forsy", "synonymOf": "farsure"}
+{"plaintext": "fort", "merged": true, "meanings": [{"substitution": "strong"}, {"substitution": "strongly"}, {"substitution": "tight"}, {"substitution": "tightly"}, {"substitution": "strong", "note": "(from French)"}]}
+{"plaintext": "forther", "meanings": [{"substitution": "forward"}, {"substitution": "the front half"}]}
+{"plaintext": "forthyr", "synonymOf": "forther"}
+{"plaintext": "found", "meanings": [{"substitution": "melt", "note": "(from French)"}]}
+{"plaintext": "founde", "synonymOf": "fondew"}
+{"plaintext": "foyle", "merged": true, "meanings": [{"substitution": "very thin sheet"}, {"substitution": "foil"}, {"substitution": "leaf", "note": "as in \"gold leaf\""}], "synonymOf": "foile"}
+{"plaintext": "fraied", "meanings": [{"substitution": "fried"}, {"substitution": "rendered"}]}
+{"plaintext": "fro", "meanings": [{"substitution": "from"}]}
+{"plaintext": "frutours", "meanings": [{"substitution": "fritter", "note": "A fried cake"}]}
+{"plaintext": "frye", "meanings": [{"substitution": "fry"}]}
+{"plaintext": "frytour", "synonymOf": "frutours"}
+{"plaintext": "frytours", "synonymOf": "frutours"}
+{"plaintext": "fullyche", "meanings": [{"substitution": "fully"}]}
+{"plaintext": "funde", "synonymOf": "found"}
+{"plaintext": "funges", "meanings": [{"substitution": "mushrooms"}]}
+{"plaintext": "furmente", "synonymOf": "firmanty"}
+{"plaintext": "furmenty", "synonymOf": "firmanty"}
+{"plaintext": "fuyre", "meanings": [{"substitution": "fire"}]}
+{"plaintext": "fygey", "meanings": [{"substitution": "a pudding of figs and raisins"}]}
+{"plaintext": "fygeye", "meanings": [{"substitution": "a figgy confection"}]}
+{"plaintext": "fyngerys", "meanings": [{"substitution": "fingers"}, {"substitution": "sometimes a form of measurement"}]}
+{"plaintext": "fysdaye", "meanings": [{"substitution": "fish day"}]}
+{"plaintext": "fyssday", "synonymOf": "fysdaye"}
+{"plaintext": "fysshday", "synonymOf": "fysdaye"}
+{"plaintext": "gadur", "meanings": [{"substitution": "gather"}]}
+{"plaintext": "galentyn", "merged": true, "meanings": [{"substitution": "a sauce for meats", "note": "usually made with the juice of the meat thickened with bread crumbs"}], "synonymOf": "galentyn"}
+{"plaintext": "galentyne", "merged": true, "meanings": [{"substitution": "galantine", "note": "a dish of cold boiled- boned meat. Sauce Galentyne would be served with it"}], "synonymOf": "galentyn"}
+{"plaintext": "galingale", "meanings": [{"substitution": "lesser galingale", "note": "(Alpinia officinarum), a member of the ginger family"}]}
+{"plaintext": "galyngale", "meanings": [{"substitution": "galangal", "note": "or galingale, a seasoning made from Cypress root"}]}
+{"plaintext": "galyntyn", "synonymOf": "galentyn"}
+{"plaintext": "galyntyne", "merged": true, "synonymOf": "galentyne"}
+{"plaintext": "galytyne", "synonymOf": "galentyn"}
+{"plaintext": "garbage", "meanings": [{"substitution": "giblets"}, {"substitution": "viscera"}]}
+{"plaintext": "garbagys", "synonymOf": "garbage"}
+{"plaintext": "garyngale", "synonymOf": "galingale"}
+{"plaintext": "gedyr", "synonymOf": "gadur"}
+{"plaintext": "gelofre", "meanings": [{"substitution": "gillyflower", "note": "An old-world plant with scented flowers, sometimes used as a substitute for cloves"}]}
+{"plaintext": "gelosre", "synonymOf": "gelofre"}
+{"plaintext": "gelye", "meanings": [{"substitution": "jelly"}]}
+{"plaintext": "gentyle", "meanings": [{"substitution": "noble"}]}
+{"plaintext": "gilofr", "synonymOf": "gelofre"}
+{"plaintext": "gilofre", "synonymOf": "gelofre"}
+{"plaintext": "gleyres of ayrenn", "meanings": [{"substitution": "egg whites"}]}
+{"plaintext": "gobet", "meanings": [{"substitution": "piece", "note": "noun"}, {"substitution": "cut into pieces", "note": "verb"}]}
+{"plaintext": "gobettis", "meanings": [{"substitution": "pieces"}]}
+{"plaintext": "gobettys", "synonymOf": "gobettis"}
+{"plaintext": "gobouns", "meanings": [{"substitution": "gobbets", "note": "pieces, lumps"}]}
+{"plaintext": "goce", "meanings": [{"substitution": "goose"}]}
+{"plaintext": "gode", "meanings": [{"substitution": "good"}]}
+{"plaintext": "golet", "merged": true, "meanings": [{"substitution": "gullet"}, {"substitution": "gullet"}]}
+{"plaintext": "golett", "synonymOf": "golet"}
+{"plaintext": "gornard", "merged": true, "meanings": [{"substitution": "gurnard", "note": "a fish"}], "synonymOf": "gurnard"}
+{"plaintext": "gos", "synonymOf": "goce"}
+{"plaintext": "grauey", "meanings": [{"substitution": "gravy"}]}
+{"plaintext": "graueye", "synonymOf": "grauey"}
+{"plaintext": "grauy", "synonymOf": "grauey"}
+{"plaintext": "grayne de paradys", "synonymOf": "paradys"}
+{"plaintext": "graynys of parise", "meanings": [{"substitution": "grains of paradise", "note": "however, some scholars say this is actually plain pear seeds, or ground-up dried pears"}]}
+{"plaintext": "graynys of perys", "synonymOf": "graynys of parise"}
+{"plaintext": "graynys of pome-garnad", "meanings": [{"substitution": "pomegranate seeds", "note": "or sometimes ground-up dried whole pomegranates"}]}
+{"plaintext": "gredyl", "meanings": [{"substitution": "griddle"}]}
+{"plaintext": "greke wyne", "meanings": [{"substitution": "a sweet wine imported from italy"}]}
+{"plaintext": "grete reysouns", "meanings": [{"substitution": "great raisins", "note": "i.e. grape raisins, not currants"}]}
+{"plaintext": "grewel", "meanings": [{"substitution": "a porridge of oatmeal or barley", "note": "usually cooked in broth"}]}
+{"plaintext": "greynes de parys", "meanings": [{"substitution": "grains of paradise", "note": "(Aframomum melegueta), also known as Guinea pepper or Melegueta pepper. A small, hard seed with a flavor between ginger and pepper"}]}
+{"plaintext": "grwel", "meanings": [{"substitution": "gruel"}]}
+{"plaintext": "grwele", "synonymOf": "grwel"}
+{"plaintext": "grynde", "meanings": [{"substitution": "grind"}]}
+{"plaintext": "gurnard", "meanings": [{"substitution": "gurnard", "note": "Any of a number of species of fish that crawl over the ocean floor using highly developed pectoral fins"}]}
+{"plaintext": "gurnarde", "synonymOf": "gurnard"}
+{"plaintext": "gutte", "meanings": [{"substitution": "gut"}, {"substitution": "pouch"}]}
+{"plaintext": "guttys", "meanings": [{"substitution": "intestines"}]}
+{"plaintext": "gylofre", "synonymOf": "gelofre"}
+{"plaintext": "gyngeuer", "meanings": [{"substitution": "ginger"}]}
+{"plaintext": "gynguer", "synonymOf": "gyngeuer"}
+{"plaintext": "gysers", "merged": true, "meanings": [{"substitution": "gizzards"}, {"substitution": "gizzards"}]}
+{"plaintext": "gysowrys", "merged": true, "synonymOf": "gysers"}
+{"plaintext": "habben", "meanings": [{"substitution": "have"}]}
+{"plaintext": "haddoke", "meanings": [{"substitution": "haddock", "note": "(Melanogrammus aeglefinus). A member of the cod family"}]}
+{"plaintext": "haf", "meanings": [{"substitution": "lift", "note": "heave"}]}
+{"plaintext": "hagas", "meanings": [{"substitution": "haggis"}]}
+{"plaintext": "hak", "meanings": [{"substitution": "chop"}]}
+{"plaintext": "hake", "meanings": [{"substitution": "a type of fish", "note": "similar to cod but with a coarser grain and sligtly stronger flavor"}]}
+{"plaintext": "hakke", "synonymOf": "hak"}
+{"plaintext": "halvyndele", "meanings": [{"substitution": "\"þe halvyndele\" means \"half of it\""}]}
+{"plaintext": "ham", "meanings": [{"substitution": "them"}]}
+{"plaintext": "harde", "meanings": [{"substitution": "harden"}, {"substitution": "hard"}]}
+{"plaintext": "hardyd", "meanings": [{"substitution": "hardened"}]}
+{"plaintext": "hebolace", "meanings": [{"substitution": "a stew of onion and herbs", "note": "possibly thickened with egg yolkes. May be a transcription or copying error for \"chebolace\""}]}
+{"plaintext": "heile", "meanings": [{"substitution": "cover"}]}
+{"plaintext": "helyd", "meanings": [{"substitution": "covered"}]}
+{"plaintext": "hem", "meanings": [{"substitution": "it"}, {"substitution": "them"}]}
+{"plaintext": "heppes", "meanings": [{"substitution": "rose hips"}]}
+{"plaintext": "herb bennet", "synonymOf": "avens"}
+{"plaintext": "herbelade", "meanings": [{"substitution": "a pie filled with meat", "note": "herbs, and eggs"}]}
+{"plaintext": "hery of bonys", "meanings": [{"substitution": "hairy with bones"}]}
+{"plaintext": "herþe", "synonymOf": "erthe"}
+{"plaintext": "hete", "meanings": [{"substitution": "heat"}, {"substitution": "heat it up"}]}
+{"plaintext": "heued", "meanings": [{"substitution": "head"}]}
+{"plaintext": "heuede", "synonymOf": "heued"}
+{"plaintext": "hew", "synonymOf": "hak"}
+{"plaintext": "hewe", "synonymOf": "hak"}
+{"plaintext": "heyryn", "meanings": [{"substitution": "eggs", "note": "(from German)"}]}
+{"plaintext": "hilde", "meanings": [{"substitution": "to skin or flay"}]}
+{"plaintext": "him", "meanings": [{"substitution": "his"}, {"substitution": "him"}]}
+{"plaintext": "his", "meanings": [{"substitution": "is"}]}
+{"plaintext": "hogepotte", "meanings": [{"substitution": "hodgepodge"}, {"substitution": "hotchpot", "note": "a stew of various ingredients"}]}
+{"plaintext": "hoggepot", "merged": true, "meanings": [{"substitution": "a stew made with pieces of meat", "note": "(usually goose), onions, and herbs"}], "synonymOf": "ochepot"}
+{"plaintext": "hol", "meanings": [{"substitution": "whole"}]}
+{"plaintext": "hole", "synonymOf": "hol"}
+{"plaintext": "holes", "meanings": [{"substitution": "hulls"}, {"substitution": "holes"}]}
+{"plaintext": "holke", "meanings": [{"substitution": "to hollow out"}]}
+{"plaintext": "holys", "meanings": [{"substitution": "hulls"}]}
+{"plaintext": "hony", "meanings": [{"substitution": "honey"}]}
+{"plaintext": "hool", "meanings": [{"substitution": "hole"}]}
+{"plaintext": "hoole", "synonymOf": "hol"}
+{"plaintext": "hote", "meanings": [{"substitution": "hot"}]}
+{"plaintext": "howhys", "meanings": [{"substitution": "hoofs"}]}
+{"plaintext": "hued", "synonymOf": "heued"}
+{"plaintext": "huede", "synonymOf": "heued"}
+{"plaintext": "hure", "meanings": [{"substitution": "her"}]}
+{"plaintext": "hwyte", "meanings": [{"substitution": "white"}]}
+{"plaintext": "hylde", "synonymOf": "hilde"}
+{"plaintext": "hyssop", "meanings": [{"substitution": "a member of the mint family", "note": "(Hyssopus officinalis)"}]}
+{"plaintext": "ibeten", "meanings": [{"substitution": "beat", "note": "beaten"}]}
+{"plaintext": "iblaunched", "meanings": [{"substitution": "blanched"}]}
+{"plaintext": "iboiled", "meanings": [{"substitution": "boiled"}]}
+{"plaintext": "icorne", "meanings": [{"substitution": "cored", "note": "Most likely a transcription or copying error for \"icorue\""}]}
+{"plaintext": "icorue", "meanings": [{"substitution": "cored"}]}
+{"plaintext": "ifonded", "meanings": [{"substitution": "melted", "note": "(from French)"}]}
+{"plaintext": "igrated", "meanings": [{"substitution": "grated"}]}
+{"plaintext": "ihewe", "meanings": [{"substitution": "hewn", "note": "Chopped"}]}
+{"plaintext": "ihewed", "meanings": [{"substitution": "hewn", "note": "Chopped"}]}
+{"plaintext": "in all poyntes", "meanings": [{"substitution": "in every respect"}]}
+{"plaintext": "indorretes", "synonymOf": "endore"}
+{"plaintext": "ioiss", "meanings": [{"substitution": "juice"}]}
+{"plaintext": "ioissh", "meanings": [{"substitution": "juice"}]}
+{"plaintext": "iquarterid", "meanings": [{"substitution": "quartered"}]}
+{"plaintext": "isode", "meanings": [{"substitution": "boiled"}]}
+{"plaintext": "isop", "meanings": [{"substitution": "hyssop", "note": "(Hyssopus officinalis). A member of the mint family"}]}
+{"plaintext": "isoppe", "meanings": [{"substitution": "hyssop"}]}
+{"plaintext": "iuce", "meanings": [{"substitution": "juice"}]}
+{"plaintext": "iunte", "meanings": [{"substitution": "joint"}]}
+{"plaintext": "ius", "synonymOf": "ioissh"}
+{"plaintext": "iuschelle", "meanings": [{"substitution": "soup", "note": "(from Latin)"}]}
+{"plaintext": "jowtes", "meanings": [{"substitution": "herbs cooked in broth or almond milk"}]}
+{"plaintext": "jussel", "merged": true, "meanings": [{"substitution": "a soup of eggs and broth"}], "synonymOf": "iuschelle"}
+{"plaintext": "jusshell", "synonymOf": "jussel"}
+{"plaintext": "kake", "meanings": [{"substitution": "cake"}]}
+{"plaintext": "kale", "synonymOf": "cole"}
+{"plaintext": "kanel", "merged": true, "synonymOf": "canel", "meanings": [{"substitution": "cassia", "note": "(Cinnamomum cassia - Sold as \"cinnamon\" in the United States). Possibly cinnamon (Cinnamomum zeylenicum) as well"}]}
+{"plaintext": "kaste", "meanings": [{"substitution": "cast", "note": "throw"}]}
+{"plaintext": "kechen", "meanings": [{"substitution": "kitchen"}]}
+{"plaintext": "kede", "meanings": [{"substitution": "kid"}]}
+{"plaintext": "keeling", "meanings": [{"substitution": "cod", "note": "codling"}]}
+{"plaintext": "kele", "synonymOf": "cole"}
+{"plaintext": "kelid", "meanings": [{"substitution": "cooled"}]}
+{"plaintext": "kelyng", "synonymOf": "keeling"}
+{"plaintext": "kendlich", "meanings": [{"substitution": "properly", "note": "by nature"}]}
+{"plaintext": "keneschype", "meanings": [{"substitution": "sharpness"}]}
+{"plaintext": "kepe", "meanings": [{"substitution": "keep", "note": "\"lat a man euermore kepe it\" means \"have someone watch it constantly\""}]}
+{"plaintext": "kerf", "meanings": [{"substitution": "cut"}, {"substitution": "carve"}]}
+{"plaintext": "kernelis", "meanings": [{"substitution": "kernels", "note": "seeds"}]}
+{"plaintext": "kerue", "synonymOf": "kerf"}
+{"plaintext": "kerve", "meanings": [{"substitution": "in a morter", "note": "to bray"}]}
+{"plaintext": "ket", "meanings": [{"substitution": "cut"}]}
+{"plaintext": "keuere", "synonymOf": "ceuere"}
+{"plaintext": "keure", "synonymOf": "ceuere"}
+{"plaintext": "keyntlich", "merged": true, "meanings": [{"substitution": "carefully"}, {"substitution": "carefully"}]}
+{"plaintext": "kne", "meanings": [{"substitution": "Knee"}]}
+{"plaintext": "knede", "meanings": [{"substitution": "knead"}]}
+{"plaintext": "knese", "synonymOf": "kne"}
+{"plaintext": "kneys", "synonymOf": "kne"}
+{"plaintext": "knyf", "meanings": [{"substitution": "knife"}]}
+{"plaintext": "knyff", "synonymOf": "knyf"}
+{"plaintext": "knytte", "meanings": [{"substitution": "tie"}]}
+{"plaintext": "koddys", "meanings": [{"substitution": "pods"}]}
+{"plaintext": "komyth", "meanings": [{"substitution": "cometh"}]}
+{"plaintext": "koruen", "meanings": [{"substitution": "carved", "note": "cut"}]}
+{"plaintext": "kouere", "synonymOf": "ceuere"}
+{"plaintext": "kouere hit forth, thou wil it note", "meanings": [{"substitution": "take care to cover it right"}]}
+{"plaintext": "kowe mylke", "meanings": [{"substitution": "cow milk"}]}
+{"plaintext": "krase", "meanings": [{"substitution": "break"}]}
+{"plaintext": "kreme", "merged": true, "meanings": [{"substitution": "cream"}, {"substitution": "crumble"}]}
+{"plaintext": "kryme", "synonymOf": "kreme"}
+{"plaintext": "kutte", "synonymOf": "ket"}
+{"plaintext": "kychoun", "synonymOf": "kechen"}
+{"plaintext": "kyde", "synonymOf": "kede"}
+{"plaintext": "kyn", "meanings": [{"substitution": "cows"}]}
+{"plaintext": "kyne", "meanings": [{"substitution": "cows"}]}
+{"plaintext": "kyrneleys", "synonymOf": "kernelis"}
+{"plaintext": "kyrnellys", "synonymOf": "kernelis"}
+{"plaintext": "kyrnels", "synonymOf": "kernelis"}
+{"plaintext": "kyt", "synonymOf": "ket"}
+{"plaintext": "kytte", "synonymOf": "ket"}
+{"plaintext": "kyttest", "synonymOf": "ket"}
+{"plaintext": "kyttyng", "meanings": [{"substitution": "cutting"}]}
+{"plaintext": "kyuer", "synonymOf": "ceuere"}
+{"plaintext": "kyuere", "synonymOf": "ceuere"}
+{"plaintext": "lamprouns", "meanings": [{"substitution": "lampreys"}]}
+{"plaintext": "langdebef", "meanings": [{"substitution": "lang de boeuf or ox-tongue", "note": "(Picris echiodes). May also have been bugloss or a type of borage"}]}
+{"plaintext": "lardons", "meanings": [{"substitution": "matchstick-shaped slivers of fat"}]}
+{"plaintext": "lat", "meanings": [{"substitution": "let"}]}
+{"plaintext": "late", "synonymOf": "lat"}
+{"plaintext": "laue", "meanings": [{"substitution": "wash", "note": "(from French)"}]}
+{"plaintext": "laumbere", "meanings": [{"substitution": "amber"}]}
+{"plaintext": "laumprey", "synonymOf": "lamprouns"}
+{"plaintext": "laumpreys", "synonymOf": "lamprouns"}
+{"plaintext": "laumprouns", "synonymOf": "lamprouns"}
+{"plaintext": "lave", "synonymOf": "laue"}
+{"plaintext": "leche", "merged": true, "meanings": [{"substitution": "slice", "note": "both the verb and the noun"}, {"substitution": "to be served in slices", "note": "in recipe titles"}, {"substitution": "for slicing", "note": "in recipe titles"}, {"substitution": "slice"}]}
+{"plaintext": "leches", "merged": true, "meanings": [{"substitution": "slices"}, {"substitution": "slices"}]}
+{"plaintext": "lechyd", "meanings": [{"substitution": "sliced"}]}
+{"plaintext": "led", "meanings": [{"substitution": "lid"}, {"substitution": "top crust of pie or tart", "note": "plural: ledys"}]}
+{"plaintext": "lede", "synonymOf": "led"}
+{"plaintext": "lemys", "meanings": [{"substitution": "limbs"}]}
+{"plaintext": "lenge", "meanings": [{"substitution": "ling", "note": "a type of fish"}]}
+{"plaintext": "lenton", "meanings": [{"substitution": "Lent"}]}
+{"plaintext": "lentyn", "synonymOf": "lenton"}
+{"plaintext": "lenyn", "meanings": [{"substitution": "linin"}]}
+{"plaintext": "lere", "meanings": [{"substitution": "empty"}]}
+{"plaintext": "lese", "meanings": [{"substitution": "pick"}]}
+{"plaintext": "lesh", "synonymOf": "leche"}
+{"plaintext": "leshe", "synonymOf": "leche"}
+{"plaintext": "lessh", "meanings": [{"substitution": "slice"}]}
+{"plaintext": "lesshes", "synonymOf": "leches"}
+{"plaintext": "let", "meanings": [{"substitution": "milk", "note": "corruption of French lait"}]}
+{"plaintext": "lete", "merged": true, "synonymOf": "lat", "meanings": [{"substitution": "milk", "note": "(from French)"}]}
+{"plaintext": "letelorye", "meanings": [{"substitution": "a milk custard with added fat", "note": "(from French)"}]}
+{"plaintext": "lethe", "synonymOf": "let"}
+{"plaintext": "letlardys", "synonymOf": "letelorye"}
+{"plaintext": "leuys", "synonymOf": "bladys"}
+{"plaintext": "levis", "synonymOf": "bladys"}
+{"plaintext": "lewe", "meanings": [{"substitution": "lukewarm"}]}
+{"plaintext": "lews", "synonymOf": "lewe"}
+{"plaintext": "ley", "meanings": [{"substitution": "lay"}, {"substitution": "lees of wine"}]}
+{"plaintext": "leye", "meanings": [{"substitution": "lees of wine"}]}
+{"plaintext": "licour", "meanings": [{"substitution": "liquor", "note": "in this case the liquid resulting from boiling something"}]}
+{"plaintext": "licoure", "synonymOf": "licour"}
+{"plaintext": "lippe", "meanings": [{"substitution": "lip"}, {"substitution": "lower half of the beak"}]}
+{"plaintext": "lire", "merged": true, "meanings": [{"substitution": "sauce"}, {"substitution": "flesh"}]}
+{"plaintext": "litel", "meanings": [{"substitution": "little"}]}
+{"plaintext": "loche", "meanings": [{"substitution": "loach", "note": "A type of freshwater fish"}]}
+{"plaintext": "loches", "meanings": [{"substitution": "loaches", "note": "a freshwater fish similar to a catfish"}]}
+{"plaintext": "lomprey", "synonymOf": "lamprouns"}
+{"plaintext": "longebeff", "synonymOf": "langdebef"}
+{"plaintext": "looches", "synonymOf": "loche"}
+{"plaintext": "lopstere", "meanings": [{"substitution": "lobster"}]}
+{"plaintext": "lordys", "meanings": [{"substitution": "lord's", "note": "\"Gode lordys mete\" means \"food fit for a lord\""}]}
+{"plaintext": "lory", "meanings": [{"substitution": "with other things added", "note": "a corruption of a word that is now \"larded\""}]}
+{"plaintext": "loseyns", "meanings": [{"substitution": "lozenges", "note": "Pasta cut into diamond shapes"}]}
+{"plaintext": "losinges", "meanings": [{"substitution": "long thin strips"}]}
+{"plaintext": "losyns", "synonymOf": "loseyns"}
+{"plaintext": "lozeyns", "synonymOf": "loseyns"}
+{"plaintext": "luce", "merged": true, "meanings": [{"substitution": "a full-grown pike (fish)"}], "synonymOf": "lucys"}
+{"plaintext": "lucys", "meanings": [{"substitution": "pike", "note": "A type of freshwater fish"}]}
+{"plaintext": "lumbarde", "meanings": [{"substitution": "of Lombardy"}]}
+{"plaintext": "lust", "meanings": [{"substitution": "wish"}]}
+{"plaintext": "ly", "synonymOf": "a-lay"}
+{"plaintext": "lycour", "meanings": [{"substitution": "liquor"}]}
+{"plaintext": "lycoure", "synonymOf": "lycour"}
+{"plaintext": "lycowr", "synonymOf": "lycour"}
+{"plaintext": "lydde", "meanings": [{"substitution": "lid", "note": "top crust"}]}
+{"plaintext": "lye", "merged": true, "synonymOf": "ly", "meanings": [{"substitution": "to mix with", "note": "Similar to temper"}]}
+{"plaintext": "lyed", "meanings": [{"substitution": "to mix with", "note": "Similar to temper"}]}
+{"plaintext": "lyes", "synonymOf": "lye"}
+{"plaintext": "lyid", "meanings": [{"substitution": "allayed"}, {"substitution": "seasoned"}]}
+{"plaintext": "lykey", "meanings": [{"substitution": "like"}]}
+{"plaintext": "lykoure", "synonymOf": "lycour"}
+{"plaintext": "lyng", "meanings": [{"substitution": "cod", "note": "(Gadus morhua)"}]}
+{"plaintext": "lyt", "meanings": [{"substitution": "light", "note": "small"}]}
+{"plaintext": "lyte", "synonymOf": "litel"}
+{"plaintext": "lyuer", "merged": true, "meanings": [{"substitution": "liver"}], "synonymOf": "lire"}
+{"plaintext": "lyuers", "meanings": [{"substitution": "livers"}]}
+{"plaintext": "lyuerys", "synonymOf": "lyuers"}
+{"plaintext": "lyuoers", "synonymOf": "lire"}
+{"plaintext": "lyuour", "synonymOf": "lire"}
+{"plaintext": "macis", "meanings": [{"substitution": "mace"}]}
+{"plaintext": "macrows", "meanings": [{"substitution": "macaroni or some similar form of pasta"}]}
+{"plaintext": "macys", "synonymOf": "macis"}
+{"plaintext": "malmens", "meanings": [{"substitution": "minced"}, {"substitution": "teased small"}]}
+{"plaintext": "malves", "merged": true, "meanings": [{"substitution": "mallows"}, {"substitution": "mallow", "note": "(Althaea officinalis)"}]}
+{"plaintext": "malwys", "merged": true, "synonymOf": "malves"}
+{"plaintext": "mammenye", "synonymOf": "mawmenee"}
+{"plaintext": "manmene", "synonymOf": "mawmenee"}
+{"plaintext": "marbyl", "meanings": [{"substitution": "marbled"}, {"substitution": "varigated in color"}]}
+{"plaintext": "marbylle", "synonymOf": "marbyl"}
+{"plaintext": "marchannt", "meanings": [{"substitution": "a pre-prepared mixture of spices", "note": "Possibly strong as it is used by one recipe in place of pepper"}]}
+{"plaintext": "marchant", "synonymOf": "marchannt"}
+{"plaintext": "marew", "meanings": [{"substitution": "marrow"}]}
+{"plaintext": "maribones", "meanings": [{"substitution": "marrow bones"}]}
+{"plaintext": "marow", "synonymOf": "marew"}
+{"plaintext": "marw", "synonymOf": "marew"}
+{"plaintext": "marwe", "merged": true, "synonymOf": "marew", "meanings": [{"substitution": "marrow"}]}
+{"plaintext": "mary", "synonymOf": "marew"}
+{"plaintext": "maumenee", "synonymOf": "mawmenee"}
+{"plaintext": "maumenye", "meanings": [{"substitution": "minced"}]}
+{"plaintext": "maunger", "meanings": [{"substitution": "a dish usually made of rice and chicken"}]}
+{"plaintext": "mawe", "meanings": [{"substitution": "stomach"}]}
+{"plaintext": "mawmenee", "meanings": [{"substitution": "minced chicken with a suace made of wine or almond milk"}]}
+{"plaintext": "mawmenny", "synonymOf": "mawmenee"}
+{"plaintext": "mawmenye", "synonymOf": "mawmenee"}
+{"plaintext": "mawys", "meanings": [{"substitution": "stomachs"}]}
+{"plaintext": "maziozame", "meanings": [{"substitution": "marjoram"}]}
+{"plaintext": "meddle", "meanings": [{"substitution": "mix"}]}
+{"plaintext": "mede", "meanings": [{"substitution": "mead", "note": "(honey wine)"}]}
+{"plaintext": "medel", "merged": true, "meanings": [{"substitution": "mix"}], "synonymOf": "meddle"}
+{"plaintext": "medle", "merged": true, "synonymOf": "medel"}
+{"plaintext": "medylde", "meanings": [{"substitution": "mixed"}]}
+{"plaintext": "mell", "synonymOf": "meddle"}
+{"plaintext": "melle", "synonymOf": "medel"}
+{"plaintext": "mene", "meanings": [{"substitution": "half-way between", "note": "this translates as \"mean\" but the meaning is actually \"half-way between\""}]}
+{"plaintext": "menge", "merged": true, "synonymOf": "medel", "meanings": [{"substitution": "mix"}]}
+{"plaintext": "merow", "synonymOf": "marew"}
+{"plaintext": "merw", "synonymOf": "marew"}
+{"plaintext": "mery-bonys", "meanings": [{"substitution": "marrow bones"}]}
+{"plaintext": "messe", "merged": true, "meanings": [{"substitution": "serve"}, {"substitution": "serve"}]}
+{"plaintext": "messe it forth", "meanings": [{"substitution": "serve it forth"}]}
+{"plaintext": "mete", "meanings": [{"substitution": "meat", "note": "but not necessarily flesh (nut meat, for example)"}, {"substitution": "dinner"}, {"substitution": "meal"}]}
+{"plaintext": "mice", "meanings": [{"substitution": "minced"}]}
+{"plaintext": "mille", "synonymOf": "medel"}
+{"plaintext": "millewell", "meanings": [{"substitution": "a kind of fish", "note": "probably cod (Gadus morhua)"}]}
+{"plaintext": "milts", "synonymOf": "myltes"}
+{"plaintext": "milwel", "meanings": [{"substitution": "mulvel", "note": "a type of fish"}]}
+{"plaintext": "moilles", "meanings": [{"substitution": "moistened", "note": "(from French)"}]}
+{"plaintext": "mortrewes", "meanings": [{"substitution": "morsels", "note": "A dish of pounded meat"}]}
+{"plaintext": "morwe", "meanings": [{"substitution": "morrow", "note": "the next day"}]}
+{"plaintext": "mossellys", "meanings": [{"substitution": "morsels"}]}
+{"plaintext": "most", "meanings": [{"substitution": "must"}]}
+{"plaintext": "motoun", "meanings": [{"substitution": "mutton"}]}
+{"plaintext": "motton", "synonymOf": "motoun"}
+{"plaintext": "mountance", "meanings": [{"substitution": "amount"}]}
+{"plaintext": "mowþe", "meanings": [{"substitution": "mouth"}]}
+{"plaintext": "moyle", "meanings": [{"substitution": "soft"}]}
+{"plaintext": "mugadez", "meanings": [{"substitution": "nutmeg"}]}
+{"plaintext": "mung", "synonymOf": "menge"}
+{"plaintext": "murreye", "meanings": [{"substitution": "a dish made using mulberries", "note": "or colored a dark red like mulberries"}]}
+{"plaintext": "muse", "meanings": [{"substitution": "mousse"}]}
+{"plaintext": "mycd", "meanings": [{"substitution": "minced"}]}
+{"plaintext": "myce", "merged": true, "synonymOf": "maumenye"}
+{"plaintext": "myced", "synonymOf": "maumenye"}
+{"plaintext": "mycyd", "synonymOf": "mycd"}
+{"plaintext": "myid", "synonymOf": "mycd"}
+{"plaintext": "mylke", "meanings": [{"substitution": "milk"}]}
+{"plaintext": "mylke of almaudys", "meanings": [{"substitution": "almond milk", "note": "unlike modern almond milk this could be made with broth rather than water, or sometimes other liquids"}]}
+{"plaintext": "myltes", "meanings": [{"substitution": "spleens"}]}
+{"plaintext": "mylwell", "meanings": [{"substitution": "a kind of fish", "note": "probably cod (Gadus morhua)"}]}
+{"plaintext": "myng", "synonymOf": "menge"}
+{"plaintext": "myntes", "meanings": [{"substitution": "mint leaves"}]}
+{"plaintext": "myse", "synonymOf": "mice"}
+{"plaintext": "myt", "meanings": [{"substitution": "might"}, {"substitution": "mayest"}]}
+{"plaintext": "myte", "synonymOf": "myt"}
+{"plaintext": "mythty", "meanings": [{"substitution": "strong", "note": "mighty"}]}
+{"plaintext": "mythyt", "synonymOf": "mythty"}
+{"plaintext": "namely", "meanings": [{"substitution": "especially"}]}
+{"plaintext": "nauell", "meanings": [{"substitution": "navel"}]}
+{"plaintext": "nauyt", "meanings": [{"substitution": "not"}]}
+{"plaintext": "neme", "meanings": [{"substitution": "take", "note": "(from German)"}]}
+{"plaintext": "neres", "meanings": [{"substitution": "a part of an animal", "note": "Austin gives this as \"ears\", though it may be a transcription or copy error for the French term \"nerfs\""}]}
+{"plaintext": "nerys", "synonymOf": "neres"}
+{"plaintext": "nesh", "synonymOf": "moyle"}
+{"plaintext": "nessh", "synonymOf": "moyle"}
+{"plaintext": "nesshe", "synonymOf": "moyle"}
+{"plaintext": "nessher", "meanings": [{"substitution": "softer"}]}
+{"plaintext": "neyshe", "meanings": [{"substitution": "soft"}]}
+{"plaintext": "neysshe", "synonymOf": "moyle"}
+{"plaintext": "neþer", "meanings": [{"substitution": "nether", "note": "lower"}]}
+{"plaintext": "noght", "synonymOf": "nauyt"}
+{"plaintext": "noiez", "meanings": [{"substitution": "nutmeg"}]}
+{"plaintext": "noiez mugadez", "merged": true, "synonymOf": "noiez"}
+{"plaintext": "nombles", "meanings": [{"substitution": "internal organs", "note": "(e.g. kidneys)"}]}
+{"plaintext": "nost", "meanings": [{"substitution": "kiln"}]}
+{"plaintext": "not", "synonymOf": "nauyt"}
+{"plaintext": "notemygge", "meanings": [{"substitution": "nutmegs"}]}
+{"plaintext": "noteye", "meanings": [{"substitution": "nutty"}]}
+{"plaintext": "notys", "meanings": [{"substitution": "nuts"}]}
+{"plaintext": "noumbles", "synonymOf": "nombles"}
+{"plaintext": "noyre", "meanings": [{"substitution": "black", "note": "(from French)"}]}
+{"plaintext": "noþer", "meanings": [{"substitution": "nor"}]}
+{"plaintext": "numbles", "synonymOf": "nombles"}
+{"plaintext": "nygh", "meanings": [{"substitution": "near"}, {"substitution": "nigh"}]}
+{"plaintext": "nym", "merged": true, "meanings": [{"substitution": "take"}], "synonymOf": "neme"}
+{"plaintext": "nyme", "merged": true, "synonymOf": "nym"}
+{"plaintext": "nyt", "meanings": [{"substitution": "night"}, {"substitution": "nights"}]}
+{"plaintext": "o", "meanings": [{"substitution": "out of"}]}
+{"plaintext": "obleies", "meanings": [{"substitution": "obleys", "note": "sacramental wafers"}]}
+{"plaintext": "obleys", "meanings": [{"substitution": "wafers", "note": "(e.g. sacramental wafers)"}]}
+{"plaintext": "oblye", "synonymOf": "obleies"}
+{"plaintext": "ochepot", "meanings": [{"substitution": "a stew made with pieces of meat", "note": "(usually goose), onions, and herbs"}]}
+{"plaintext": "of", "meanings": [{"substitution": "of"}, {"substitution": "off"}]}
+{"plaintext": "offall", "meanings": [{"substitution": "parts of the meat carcass generally discarded. Most often this referred specifically to the organ meats", "note": "but very rarely could also mean flesh meat as well. The offal also included the head, feet, and giblets"}]}
+{"plaintext": "oftor", "meanings": [{"substitution": "more often"}]}
+{"plaintext": "oile", "meanings": [{"substitution": "oil"}]}
+{"plaintext": "oille de oliue", "meanings": [{"substitution": "olive oil"}]}
+{"plaintext": "olde", "meanings": [{"substitution": "old"}]}
+{"plaintext": "on", "meanings": [{"substitution": "in"}, {"substitution": "on"}, {"substitution": "one"}]}
+{"plaintext": "ondo", "meanings": [{"substitution": "undo"}]}
+{"plaintext": "one", "meanings": [{"substitution": "once"}]}
+{"plaintext": "oneliche", "meanings": [{"substitution": "into single or small pieces"}]}
+{"plaintext": "onoward", "meanings": [{"substitution": "above", "note": "on top of a prepared dish"}]}
+{"plaintext": "onys", "synonymOf": "one"}
+{"plaintext": "ooþerdele", "meanings": [{"substitution": "the rest"}]}
+{"plaintext": "ope", "meanings": [{"substitution": "cut open"}]}
+{"plaintext": "or", "meanings": [{"substitution": "or"}, {"substitution": "ere", "note": "till, before"}]}
+{"plaintext": "orage", "merged": true, "meanings": [{"substitution": "orach", "note": "a leafy plant. Gerard reported it was generally eaten boiled"}, {"substitution": "orach", "note": "(Atriplex hortensis). An annual plant grown for its leaves"}]}
+{"plaintext": "ote-mele", "meanings": [{"substitution": "oatmeal"}]}
+{"plaintext": "otemele", "synonymOf": "ote-mele"}
+{"plaintext": "otyn", "meanings": [{"substitution": "oaten"}]}
+{"plaintext": "ouer", "meanings": [{"substitution": "over"}]}
+{"plaintext": "ouer eve", "meanings": [{"substitution": "over night"}]}
+{"plaintext": "ouer-cast", "meanings": [{"substitution": "turn over"}]}
+{"plaintext": "ouer-caste", "synonymOf": "ouer-cast"}
+{"plaintext": "ouer-renne", "meanings": [{"substitution": "overrun", "note": "run over"}]}
+{"plaintext": "ouer-wewyd", "meanings": [{"substitution": "too wet", "note": "washed"}]}
+{"plaintext": "ouer-wose", "meanings": [{"substitution": "washed over"}]}
+{"plaintext": "ouere-couer", "meanings": [{"substitution": "cover over"}]}
+{"plaintext": "oueretwarde", "meanings": [{"substitution": "crossways", "note": "across"}]}
+{"plaintext": "ouernyth", "synonymOf": "ouer eve"}
+{"plaintext": "ouerstepid", "meanings": [{"substitution": "well cooked", "note": "or overcooked"}]}
+{"plaintext": "ouerþwart", "meanings": [{"substitution": "across"}]}
+{"plaintext": "ouwher", "meanings": [{"substitution": "anywhere"}]}
+{"plaintext": "ovenne", "meanings": [{"substitution": "oven"}]}
+{"plaintext": "ovyn", "synonymOf": "ovenne"}
+{"plaintext": "ovynne", "synonymOf": "ovenne"}
+{"plaintext": "owrys", "meanings": [{"substitution": "hours"}]}
+{"plaintext": "oyenons", "meanings": [{"substitution": "onions"}]}
+{"plaintext": "oygnons", "synonymOf": "oyenons"}
+{"plaintext": "oyle", "synonymOf": "oile"}
+{"plaintext": "oyngnons", "synonymOf": "oyenons"}
+{"plaintext": "oynons", "synonymOf": "oyenons"}
+{"plaintext": "oynonys", "synonymOf": "oyenons"}
+{"plaintext": "oynouns", "synonymOf": "oyenons"}
+{"plaintext": "oystres", "meanings": [{"substitution": "oysters"}]}
+{"plaintext": "oystrys", "synonymOf": "oystres"}
+{"plaintext": "oþe", "meanings": [{"substitution": "in the"}]}
+{"plaintext": "oþer", "meanings": [{"substitution": "other"}, {"substitution": "or"}, {"substitution": "or else"}]}
+{"plaintext": "oþur", "meanings": [{"substitution": "other", "note": "or else, or"}]}
+{"plaintext": "paast", "meanings": [{"substitution": "pastry"}]}
+{"plaintext": "paaste", "synonymOf": "paast"}
+{"plaintext": "pacience", "meanings": [{"substitution": "patience", "note": "(Rumex alpinus), also known as Monk's Rhubarb or Passion's Dock"}]}
+{"plaintext": "pandemayn", "meanings": [{"substitution": "fine white bread", "note": "(from French)"}]}
+{"plaintext": "paradys", "meanings": [{"substitution": "grains of paradise", "note": "(Aframomum melegueta), also known as Guinea pepper or Melegueta pepper. A small, hard seed with a flavor between ginger and pepper"}]}
+{"plaintext": "pare", "merged": true, "meanings": [{"substitution": "parings"}, {"substitution": "Paris"}]}
+{"plaintext": "parise", "synonymOf": "graynys of parise"}
+{"plaintext": "party", "meanings": [{"substitution": "part"}, {"substitution": "portion"}]}
+{"plaintext": "partye", "synonymOf": "party"}
+{"plaintext": "parys", "meanings": [{"substitution": "the herb Paris", "note": "also called \"true-love\""}]}
+{"plaintext": "pasternaks", "meanings": [{"substitution": "root vegetables", "note": "namely carrots and parsnips"}]}
+{"plaintext": "pasturnakes", "synonymOf": "pasternaks"}
+{"plaintext": "payn", "meanings": [{"substitution": "bread", "note": "(from French)"}]}
+{"plaintext": "payndemayn", "synonymOf": "pandemayn"}
+{"plaintext": "paynemayn", "meanings": [{"substitution": "lordly bread", "note": "corruption of Old French \"pain demaine\": bread of the manor"}, {"substitution": "the finest white bread"}]}
+{"plaintext": "paynmain", "synonymOf": "paynemayn"}
+{"plaintext": "pecher", "meanings": [{"substitution": "pitcher"}]}
+{"plaintext": "peions", "meanings": [{"substitution": "pigeons"}]}
+{"plaintext": "peiouns", "merged": true, "meanings": [{"substitution": "pigeons"}], "synonymOf": "peions"}
+{"plaintext": "pele", "meanings": [{"substitution": "a baker's peel", "note": "the long pole with a shovel-like end used for putting bread loaves into and out of ovens. For an illustration of a pele at work, see: Bakers at work"}]}
+{"plaintext": "peleter", "meanings": [{"substitution": "pellitory", "note": "(Anacyclus pyrethrum). An herb with a hot, spicy flavor. Also called Spanish Chamomile and Mount Atlas daisy"}]}
+{"plaintext": "peletre", "meanings": [{"substitution": "pellitory", "note": "thyme"}]}
+{"plaintext": "pelettys", "meanings": [{"substitution": "pellets"}]}
+{"plaintext": "pellydore", "synonymOf": "peleter"}
+{"plaintext": "pelys", "meanings": [{"substitution": "of the baker's peel", "note": "a baker's peel is a long pole with a shovel-like end used for putting bread loaves into and out of ovens"}]}
+{"plaintext": "peny", "meanings": [{"substitution": "penny"}, {"substitution": "a penny's breadth", "note": "a \"peny brede\" (the thickness of a penny) was a form of measurement"}]}
+{"plaintext": "pepyn", "merged": true, "meanings": [{"substitution": "the sprouting part of a pea"}, {"substitution": "pea", "note": "(as opposed to the pea pod)"}]}
+{"plaintext": "peraise", "synonymOf": "pare"}
+{"plaintext": "perbuille", "meanings": [{"substitution": "parboil"}]}
+{"plaintext": "perchys", "meanings": [{"substitution": "perch", "note": "a type of fish"}]}
+{"plaintext": "pere", "meanings": [{"substitution": "pear"}, {"substitution": "Pere Wardonys - Warden pears"}]}
+{"plaintext": "pernollys", "meanings": [{"substitution": "loaves"}]}
+{"plaintext": "perpir", "meanings": [{"substitution": "pepper"}]}
+{"plaintext": "pertryche", "meanings": [{"substitution": "partridge"}]}
+{"plaintext": "pery", "meanings": [{"substitution": "pears"}]}
+{"plaintext": "perys", "synonymOf": "pery"}
+{"plaintext": "peskodde", "meanings": [{"substitution": "pea pods"}]}
+{"plaintext": "peson", "meanings": [{"substitution": "peas"}]}
+{"plaintext": "pesoun", "synonymOf": "peson"}
+{"plaintext": "pesyn", "meanings": [{"substitution": "peas", "note": "dried"}]}
+{"plaintext": "peuerade", "meanings": [{"substitution": "pepper sauce"}]}
+{"plaintext": "peuerade (pevorat)", "meanings": [{"substitution": "pepper sauce"}]}
+{"plaintext": "pike", "meanings": [{"substitution": "pick"}, {"substitution": "pike", "note": "the fish, rather than the polearm"}]}
+{"plaintext": "piper", "synonymOf": "perpir"}
+{"plaintext": "pisyn", "synonymOf": "peson"}
+{"plaintext": "plaise", "meanings": [{"substitution": "plaice", "note": "(Pleuronectes platessa). A flat fish that lives on the sandy bottom of the ocean"}]}
+{"plaintext": "plante", "meanings": [{"substitution": "stick"}, {"substitution": "pit"}]}
+{"plaintext": "plays", "merged": true, "meanings": [{"substitution": "plaice", "note": "a type of fish"}], "synonymOf": "plaise"}
+{"plaintext": "plom", "meanings": [{"substitution": "plump"}]}
+{"plaintext": "plouer", "merged": true, "meanings": [{"substitution": "pulver"}, {"substitution": "plover"}]}
+{"plaintext": "plouere", "synonymOf": "plouer"}
+{"plaintext": "poche", "meanings": [{"substitution": "poach"}]}
+{"plaintext": "polettys", "meanings": [{"substitution": "pullets"}]}
+{"plaintext": "pome-garnad", "meanings": [{"substitution": "pomegranate"}]}
+{"plaintext": "pomme", "meanings": [{"substitution": "apples", "note": "(from French)"}]}
+{"plaintext": "pommedorry", "meanings": [{"substitution": "golden apples", "note": "(from French)"}]}
+{"plaintext": "pommys", "merged": true, "meanings": [{"substitution": "meatballs"}], "synonymOf": "pomme"}
+{"plaintext": "pompys", "synonymOf": "pommys"}
+{"plaintext": "posnet", "meanings": [{"substitution": "a small pot"}]}
+{"plaintext": "possynet", "synonymOf": "posnet"}
+{"plaintext": "potage", "merged": true, "meanings": [{"substitution": "thick blended dish"}, {"substitution": "soup"}, {"substitution": "a soup or stew"}]}
+{"plaintext": "pott", "meanings": [{"substitution": "pot"}]}
+{"plaintext": "pottage", "synonymOf": "potage"}
+{"plaintext": "potte", "synonymOf": "pott"}
+{"plaintext": "pottel", "merged": true, "meanings": [{"substitution": "pottle", "note": "two quarts, or equivalently half a gallon"}, {"substitution": "a half gallon"}]}
+{"plaintext": "pottle", "synonymOf": "pottel"}
+{"plaintext": "pouder", "meanings": [{"substitution": "powder"}, {"substitution": "often used as a term for spice"}]}
+{"plaintext": "poudere", "synonymOf": "pouder"}
+{"plaintext": "poudour", "meanings": [{"substitution": "powder"}]}
+{"plaintext": "poudre", "synonymOf": "pouder"}
+{"plaintext": "poumes", "synonymOf": "pommys"}
+{"plaintext": "pounde", "meanings": [{"substitution": "pound"}, {"substitution": "pounded"}]}
+{"plaintext": "pour", "meanings": [{"substitution": "for"}]}
+{"plaintext": "powajes", "meanings": [{"substitution": "porridge"}]}
+{"plaintext": "powche", "meanings": [{"substitution": "stomach"}]}
+{"plaintext": "powder marchant", "synonymOf": "marchannt"}
+{"plaintext": "powdour", "synonymOf": "poudour"}
+{"plaintext": "powper", "synonymOf": "pouder"}
+{"plaintext": "poynant", "meanings": [{"substitution": "piquant with vinegar or other sour flavoring"}]}
+{"plaintext": "poynaunt", "synonymOf": "poynant"}
+{"plaintext": "poynte", "meanings": [{"substitution": "sharpen", "note": "(the taste)"}, {"substitution": "point"}]}
+{"plaintext": "prik", "meanings": [{"substitution": "skewer"}]}
+{"plaintext": "prune", "meanings": [{"substitution": "prunes"}]}
+{"plaintext": "prycke", "synonymOf": "prik"}
+{"plaintext": "pryk", "meanings": [{"substitution": "prick"}]}
+{"plaintext": "prykke", "synonymOf": "pryk"}
+{"plaintext": "pul", "meanings": [{"substitution": "pluck"}]}
+{"plaintext": "pull", "synonymOf": "pul"}
+{"plaintext": "pulle", "synonymOf": "pul"}
+{"plaintext": "pumpes", "merged": true, "synonymOf": "pommys"}
+{"plaintext": "pur", "synonymOf": "pour"}
+{"plaintext": "purays", "meanings": [{"substitution": "porpoise"}]}
+{"plaintext": "purdew", "meanings": [{"substitution": "lost", "note": "(from French)"}]}
+{"plaintext": "purpays", "synonymOf": "purays"}
+{"plaintext": "purpaysse", "synonymOf": "purays"}
+{"plaintext": "purslarye", "meanings": [{"substitution": "purslane", "note": "(Portulaca oleracea). Aso known as Pigweed"}]}
+{"plaintext": "pye", "meanings": [{"substitution": "pies"}]}
+{"plaintext": "pyke", "synonymOf": "lese"}
+{"plaintext": "pylle", "meanings": [{"substitution": "peel"}]}
+{"plaintext": "pyn", "meanings": [{"substitution": "peg"}]}
+{"plaintext": "pynade", "meanings": [{"substitution": "a candy made with pine nuts", "note": "similar to peanut brittle"}]}
+{"plaintext": "pyne", "meanings": [{"substitution": "pinenuts"}, {"substitution": "whole peppercorns", "note": "pepper \"pines\""}]}
+{"plaintext": "pynes", "merged": true, "synonymOf": "pyne", "meanings": [{"substitution": "pine nuts"}]}
+{"plaintext": "pynys", "synonymOf": "pyne"}
+{"plaintext": "qibibus", "meanings": [{"substitution": "cubebs", "note": "(Piper cubeba). A type of pepper with a citrus-like scent. Also called Tailed Pepper"}]}
+{"plaintext": "quantite", "meanings": [{"substitution": "quantity"}]}
+{"plaintext": "quart", "meanings": [{"substitution": "quart"}]}
+{"plaintext": "quarte", "synonymOf": "quart"}
+{"plaintext": "quarter", "merged": true, "meanings": [{"substitution": "cut in quarters"}, {"substitution": "the fore quarter of an animal"}]}
+{"plaintext": "quarteren", "synonymOf": "quart"}
+{"plaintext": "quarterys", "meanings": [{"substitution": "fore quarters"}]}
+{"plaintext": "quartes", "meanings": [{"substitution": "quarters"}]}
+{"plaintext": "quartroun", "meanings": [{"substitution": "quarter"}]}
+{"plaintext": "quayle", "merged": true, "meanings": [{"substitution": "curdle"}, {"substitution": "shake"}]}
+{"plaintext": "quest", "meanings": [{"substitution": "crush"}]}
+{"plaintext": "queyntlich", "meanings": [{"substitution": "carefully"}]}
+{"plaintext": "queyntliche", "synonymOf": "keyntlich"}
+{"plaintext": "quibbes", "meanings": [{"substitution": "cubebs", "note": "a spice related to pepper"}]}
+{"plaintext": "quibibes", "synonymOf": "quibbes"}
+{"plaintext": "quibibz", "synonymOf": "qibibus"}
+{"plaintext": "quince", "meanings": [{"substitution": "a close relative of the apple", "note": "with a hard, fragrant fruit (Cydonia oblonga)"}]}
+{"plaintext": "quybibe", "synonymOf": "quibbes"}
+{"plaintext": "quybibes", "merged": true, "synonymOf": "quibbes"}
+{"plaintext": "quybibys", "synonymOf": "quibbes"}
+{"plaintext": "quybybis", "synonymOf": "quibbes"}
+{"plaintext": "quyk", "meanings": [{"substitution": "quick", "note": "alive"}]}
+{"plaintext": "quynce", "synonymOf": "quince"}
+{"plaintext": "quynces", "meanings": [{"substitution": "quinces"}]}
+{"plaintext": "quyncis", "synonymOf": "quynces"}
+{"plaintext": "quyncys", "synonymOf": "quynces"}
+{"plaintext": "quynes", "synonymOf": "quynces"}
+{"plaintext": "quyschons", "meanings": [{"substitution": "cushions", "note": "buttocks"}]}
+{"plaintext": "qwen", "meanings": [{"substitution": "when"}]}
+{"plaintext": "qwhey", "meanings": [{"substitution": "whey"}]}
+{"plaintext": "qwyt", "synonymOf": "hwyte"}
+{"plaintext": "qwyte", "synonymOf": "hwyte"}
+{"plaintext": "rales (rails)", "meanings": [{"substitution": "a wetland bird of the genus rallus"}]}
+{"plaintext": "ransched", "meanings": [{"substitution": "rinsed"}]}
+{"plaintext": "rapes", "meanings": [{"substitution": "turnips"}]}
+{"plaintext": "rapus", "synonymOf": "rapes"}
+{"plaintext": "raston", "meanings": [{"substitution": "a sort of tart made by stuffing bread with butter and breadcrumbs"}]}
+{"plaintext": "rawnes", "meanings": [{"substitution": "fish roe"}]}
+{"plaintext": "rede", "meanings": [{"substitution": "red"}]}
+{"plaintext": "reke", "meanings": [{"substitution": "reek", "note": "means to heat over coals"}]}
+{"plaintext": "ren", "synonymOf": "erne"}
+{"plaintext": "renne", "synonymOf": "erne"}
+{"plaintext": "rennyn", "meanings": [{"substitution": "running", "note": "runny"}]}
+{"plaintext": "rennyng", "synonymOf": "rennyn"}
+{"plaintext": "resons", "meanings": [{"substitution": "raisins"}]}
+{"plaintext": "restyn", "meanings": [{"substitution": "turning rancid"}]}
+{"plaintext": "restyng", "synonymOf": "restyn"}
+{"plaintext": "rether", "meanings": [{"substitution": "ox"}]}
+{"plaintext": "rew", "merged": true, "meanings": [{"substitution": "row"}, {"substitution": "rue", "note": "(Ruta graveolens). A medicinal herb"}]}
+{"plaintext": "rewe", "synonymOf": "rew"}
+{"plaintext": "reysons", "synonymOf": "resons"}
+{"plaintext": "reysyns", "synonymOf": "resons"}
+{"plaintext": "rezge", "meanings": [{"substitution": "ray", "note": "a type of fish"}]}
+{"plaintext": "riall", "meanings": [{"substitution": "royal"}]}
+{"plaintext": "rissheshewes", "meanings": [{"substitution": "rissoles"}]}
+{"plaintext": "risshews", "synonymOf": "rissheshewes"}
+{"plaintext": "risshshewes", "synonymOf": "rissheshewes"}
+{"plaintext": "rit so", "meanings": [{"substitution": "right so", "note": "i.e. another way of doing it"}]}
+{"plaintext": "roches", "meanings": [{"substitution": "roach", "note": "(Rutilus rutilus). A freshwater fish"}]}
+{"plaintext": "roddys ende", "meanings": [{"substitution": "the end of a stick or rod"}]}
+{"plaintext": "roo", "meanings": [{"substitution": "roe deer", "note": "(Capreolus capreolus)"}]}
+{"plaintext": "roppis", "meanings": [{"substitution": "intestines"}]}
+{"plaintext": "rosty", "meanings": [{"substitution": "roast"}]}
+{"plaintext": "rosys", "meanings": [{"substitution": "roses"}]}
+{"plaintext": "rous", "meanings": [{"substitution": "ruddy"}]}
+{"plaintext": "rove", "meanings": [{"substitution": "roof"}]}
+{"plaintext": "roysonys", "synonymOf": "resons"}
+{"plaintext": "ruayn", "meanings": [{"substitution": "a semi-soft cheese made in autumn", "note": "Possibly similar to Pont-l'Évêque"}]}
+{"plaintext": "ryal", "meanings": [{"substitution": "royal", "note": "as in fit for a king"}]}
+{"plaintext": "ryalle", "synonymOf": "ryal"}
+{"plaintext": "rynysshe wyne", "meanings": [{"substitution": "rhine wine"}]}
+{"plaintext": "ryse", "meanings": [{"substitution": "raise"}]}
+{"plaintext": "rysshews", "meanings": [{"substitution": "small fried pies filled with dried fruits"}]}
+{"plaintext": "ryt", "meanings": [{"substitution": "right"}]}
+{"plaintext": "ryth", "synonymOf": "ryt"}
+{"plaintext": "saake", "synonymOf": "lire"}
+{"plaintext": "salwar", "meanings": [{"substitution": "a type or grade of salmon", "note": "May be related to \"calver\" salmon which is freshly caught and cleaned, or \"salar\" salmon which is young"}]}
+{"plaintext": "sandres", "meanings": [{"substitution": "saunders", "note": "also known as Red Sandalwood (Pterocarpus santalinus). Used as a red colorant"}]}
+{"plaintext": "sapheron", "meanings": [{"substitution": "saffron"}]}
+{"plaintext": "saue", "meanings": [{"substitution": "save"}, {"substitution": "except"}]}
+{"plaintext": "sauerey", "meanings": [{"substitution": "savory"}]}
+{"plaintext": "saunders", "synonymOf": "sandres"}
+{"plaintext": "saunderys", "meanings": [{"substitution": "sandalwood spice"}]}
+{"plaintext": "saundres", "merged": true, "synonymOf": "saunderys"}
+{"plaintext": "sawnderys", "synonymOf": "saunderys"}
+{"plaintext": "sawndres", "synonymOf": "saunderys"}
+{"plaintext": "schale", "meanings": [{"substitution": "shell"}]}
+{"plaintext": "schap", "meanings": [{"substitution": "shape"}]}
+{"plaintext": "schevres", "meanings": [{"substitution": "slivers"}]}
+{"plaintext": "schlus", "meanings": [{"substitution": "resulting mixture"}, {"substitution": "end product"}]}
+{"plaintext": "schoppe", "synonymOf": "hak"}
+{"plaintext": "schouyl", "meanings": [{"substitution": "shovel"}]}
+{"plaintext": "schulle", "synonymOf": "schale"}
+{"plaintext": "schullys", "meanings": [{"substitution": "shells or pieces of shells"}]}
+{"plaintext": "schyconys", "meanings": [{"substitution": "chickens"}]}
+{"plaintext": "screde", "meanings": [{"substitution": "fragment"}, {"substitution": "to fragment", "note": "i.e. to cut, divide, separate, make into pieces, etc"}]}
+{"plaintext": "seeth", "meanings": [{"substitution": "boil"}]}
+{"plaintext": "sefe", "meanings": [{"substitution": "sieve"}]}
+{"plaintext": "selue", "meanings": [{"substitution": "self"}]}
+{"plaintext": "sene", "meanings": [{"substitution": "visible", "note": "seen"}]}
+{"plaintext": "serge", "merged": true, "meanings": [{"substitution": "sift"}, {"substitution": "sift"}]}
+{"plaintext": "serue", "synonymOf": "messe"}
+{"plaintext": "seruyst", "meanings": [{"substitution": "servest"}]}
+{"plaintext": "seruyste", "synonymOf": "seruyst"}
+{"plaintext": "seth", "merged": true, "meanings": [{"substitution": "boil"}, {"substitution": "cook"}], "synonymOf": "seeth"}
+{"plaintext": "sethe", "synonymOf": "seth"}
+{"plaintext": "sethith", "synonymOf": "seeth"}
+{"plaintext": "sethyng", "meanings": [{"substitution": "boiling"}]}
+{"plaintext": "sette", "meanings": [{"substitution": "set"}]}
+{"plaintext": "sew", "merged": true, "meanings": [{"substitution": "sew", "note": "a Middle English word referring to a broth or liquid ranging from juice through gravy to stew"}, {"substitution": "stew or broth"}]}
+{"plaintext": "sewe", "merged": true, "synonymOf": "sew"}
+{"plaintext": "seyn", "synonymOf": "sene"}
+{"plaintext": "seþe", "synonymOf": "seth"}
+{"plaintext": "seþen", "meanings": [{"substitution": "simmer"}, {"substitution": "boil"}]}
+{"plaintext": "seþin", "meanings": [{"substitution": "boiled"}, {"substitution": "boiling"}]}
+{"plaintext": "shere", "synonymOf": "ket"}
+{"plaintext": "sith", "synonymOf": "seth"}
+{"plaintext": "skluce", "synonymOf": "schlus"}
+{"plaintext": "sklyse", "meanings": [{"substitution": "a paddle or spatula"}]}
+{"plaintext": "skore", "meanings": [{"substitution": "scour"}]}
+{"plaintext": "skyrwater", "synonymOf": "skyrwates"}
+{"plaintext": "skyrwates", "meanings": [{"substitution": "skirret", "note": "(Sium sisarum). A root vegetable, also known as a water parsnip"}]}
+{"plaintext": "slake", "meanings": [{"substitution": "lukewarm"}]}
+{"plaintext": "sle", "meanings": [{"substitution": "slay"}]}
+{"plaintext": "slee", "synonymOf": "sle"}
+{"plaintext": "slepyr", "meanings": [{"substitution": "slippery"}]}
+{"plaintext": "smale", "meanings": [{"substitution": "small"}]}
+{"plaintext": "smyte", "synonymOf": "hak"}
+{"plaintext": "snyte", "meanings": [{"substitution": "snipe"}]}
+{"plaintext": "sode", "merged": true, "meanings": [{"substitution": "boiled"}, {"substitution": "boiled"}]}
+{"plaintext": "soden", "synonymOf": "sode"}
+{"plaintext": "sodyn", "synonymOf": "sode"}
+{"plaintext": "soler", "meanings": [{"substitution": "cellar"}]}
+{"plaintext": "somdel", "meanings": [{"substitution": "somewhat", "note": "some part"}]}
+{"plaintext": "sonne", "meanings": [{"substitution": "sun"}]}
+{"plaintext": "soperys", "meanings": [{"substitution": "suppers"}]}
+{"plaintext": "soppes", "merged": true, "meanings": [{"substitution": "sops", "note": "pieces of bread \"sopped\" in roast drippings, broth, wine, and juices of any kind"}, {"substitution": "sops", "note": "A dish consisting of a soup or broth poured over a slice of toasted bread"}]}
+{"plaintext": "soppis", "synonymOf": "soppes"}
+{"plaintext": "soppys", "synonymOf": "soppes"}
+{"plaintext": "sorcell", "meanings": [{"substitution": "teal", "note": "or Common Teal (Anas crecca)"}]}
+{"plaintext": "sothe", "meanings": [{"substitution": "boiled", "note": "cokked"}]}
+{"plaintext": "sothyn", "synonymOf": "sothe"}
+{"plaintext": "soundys", "meanings": [{"substitution": "sounds", "note": "the swimming bladders of codfish or plaice"}]}
+{"plaintext": "southrenwode", "meanings": [{"substitution": "southernwood", "note": "(Artemisia abrotanum). A vlose relative of wormwood and mugwort"}]}
+{"plaintext": "sowpes", "meanings": [{"substitution": "sops", "note": "A dish consisting of a soup or broth poured over a slice of toasted bread"}]}
+{"plaintext": "sowpys", "synonymOf": "sowpes"}
+{"plaintext": "soþe", "synonymOf": "sothe"}
+{"plaintext": "soþin", "synonymOf": "sothe"}
+{"plaintext": "span", "meanings": [{"substitution": "span", "note": "the width of a spread hand"}]}
+{"plaintext": "spykenard", "meanings": [{"substitution": "spikenard", "note": "(Nardostachys grandiflora). A flowering member of the Valerian family"}]}
+{"plaintext": "spyneye", "meanings": [{"substitution": "thorny", "note": "spiney"}]}
+{"plaintext": "spyte", "meanings": [{"substitution": "spit", "note": "for roasting"}]}
+{"plaintext": "stampe", "synonymOf": "grynde"}
+{"plaintext": "steke", "meanings": [{"substitution": "stick"}]}
+{"plaintext": "stere", "meanings": [{"substitution": "stir"}]}
+{"plaintext": "stockefysche", "meanings": [{"substitution": "dried fish", "note": "usually cod"}]}
+{"plaintext": "stockfish", "synonymOf": "stockefysche"}
+{"plaintext": "stoding", "meanings": [{"substitution": "standing", "note": "stiff enough to stand up in the pot or plate"}]}
+{"plaintext": "stokefysshe", "meanings": [{"substitution": "stockfish", "note": "usually salted and dried codfish"}]}
+{"plaintext": "stokfysshe", "synonymOf": "stokefysshe"}
+{"plaintext": "stondyng", "merged": true, "synonymOf": "stoding", "meanings": [{"substitution": "extremely thick", "note": "Thicker than chargeant"}]}
+{"plaintext": "stondynge", "synonymOf": "stoding"}
+{"plaintext": "stone wil by clowes, and by sugre", "meanings": [{"substitution": "has enough cloves and sugar"}]}
+{"plaintext": "stoppe", "meanings": [{"substitution": "stuff"}, {"substitution": "seal"}]}
+{"plaintext": "storion", "meanings": [{"substitution": "sturgeon"}]}
+{"plaintext": "straw", "meanings": [{"substitution": "strew"}, {"substitution": "sprinkle"}, {"substitution": "scatter"}]}
+{"plaintext": "strawe", "synonymOf": "straw"}
+{"plaintext": "straynour", "meanings": [{"substitution": "strainer"}]}
+{"plaintext": "stryke", "meanings": [{"substitution": "scrape"}]}
+{"plaintext": "stuf", "meanings": [{"substitution": "previously mentioned ingredients"}]}
+{"plaintext": "stuffe of þe porke", "meanings": [{"substitution": "the pork part of the recipe"}]}
+{"plaintext": "stuffur", "meanings": [{"substitution": "ingredients used for stuffing"}]}
+{"plaintext": "sture", "synonymOf": "stere"}
+{"plaintext": "styre", "synonymOf": "stere"}
+{"plaintext": "styrre", "synonymOf": "stere"}
+{"plaintext": "sugre", "meanings": [{"substitution": "sugar"}]}
+{"plaintext": "sugur", "synonymOf": "sugre"}
+{"plaintext": "sum-what", "meanings": [{"substitution": "somewhat"}]}
+{"plaintext": "sumdele", "synonymOf": "sum-what"}
+{"plaintext": "sumdell", "synonymOf": "somdel"}
+{"plaintext": "sumwhat", "synonymOf": "sum-what"}
+{"plaintext": "sunne", "synonymOf": "sonne"}
+{"plaintext": "svette", "meanings": [{"substitution": "suet"}]}
+{"plaintext": "sweng", "meanings": [{"substitution": "stir vigorously", "note": "Whisk"}]}
+{"plaintext": "swenge", "meanings": [{"substitution": "stir or beat"}]}
+{"plaintext": "swerde", "meanings": [{"substitution": "rind or skin"}]}
+{"plaintext": "swete", "meanings": [{"substitution": "sweet"}, {"substitution": "suet"}]}
+{"plaintext": "swette", "synonymOf": "svette"}
+{"plaintext": "sweyng", "synonymOf": "sweng"}
+{"plaintext": "swyng", "synonymOf": "sweng"}
+{"plaintext": "swynys", "meanings": [{"substitution": "swine's"}]}
+{"plaintext": "swythe", "meanings": [{"substitution": "quickly"}]}
+{"plaintext": "sylt", "meanings": [{"substitution": "salt"}]}
+{"plaintext": "syluer", "meanings": [{"substitution": "silver"}]}
+{"plaintext": "synamoun", "meanings": [{"substitution": "cinnamon", "note": "(Cinnamomum zeylanicum). Possibly cassia (Cinnamomum cassia - Sold as \"cinnamon\" in the United States) as well"}]}
+{"plaintext": "syth", "meanings": [{"substitution": "great deal"}]}
+{"plaintext": "tage", "synonymOf": "nym"}
+{"plaintext": "tayle", "meanings": [{"substitution": "vent"}]}
+{"plaintext": "taylid", "meanings": [{"substitution": "cut up"}]}
+{"plaintext": "tele", "meanings": [{"substitution": "teal"}]}
+{"plaintext": "temper", "merged": true, "meanings": [{"substitution": "mix"}, {"substitution": "season"}, {"substitution": "to mix", "note": "usually combining dry and liquid ingredients. Temper has connotations of balancing as well"}]}
+{"plaintext": "tempere", "synonymOf": "temper"}
+{"plaintext": "tempre", "synonymOf": "temper"}
+{"plaintext": "tenches", "meanings": [{"substitution": "tench", "note": "(Tinca tinca). A common freshwater fish of Europe"}]}
+{"plaintext": "tenchys", "meanings": [{"substitution": "tench", "note": "a type of fish"}]}
+{"plaintext": "tese", "meanings": [{"substitution": "shred small (tease)"}]}
+{"plaintext": "tesyd", "meanings": [{"substitution": "shredded small"}]}
+{"plaintext": "thorgh", "meanings": [{"substitution": "through"}]}
+{"plaintext": "throte boll", "meanings": [{"substitution": "gullet"}, {"substitution": "Adam's apple"}]}
+{"plaintext": "thyn", "meanings": [{"substitution": "thine"}, {"substitution": "thin"}]}
+{"plaintext": "thyne", "synonymOf": "thyn"}
+{"plaintext": "thynne foile", "meanings": [{"substitution": "thin pastry"}]}
+{"plaintext": "to-broke", "meanings": [{"substitution": "broken"}]}
+{"plaintext": "to-choppe", "meanings": [{"substitution": "chop together"}]}
+{"plaintext": "to-choppyd", "meanings": [{"substitution": "chopped together"}]}
+{"plaintext": "to-falle", "meanings": [{"substitution": "disintegrate"}, {"substitution": "fall together"}]}
+{"plaintext": "tobrest", "synonymOf": "berst"}
+{"plaintext": "toenst", "meanings": [{"substitution": "against"}]}
+{"plaintext": "tolle", "meanings": [{"substitution": "rub"}]}
+{"plaintext": "toyle", "synonymOf": "tolle"}
+{"plaintext": "trap", "meanings": [{"substitution": "a plate or pan for making pies"}]}
+{"plaintext": "trappe", "meanings": [{"substitution": "a type of pan"}]}
+{"plaintext": "trayne", "meanings": [{"substitution": "train", "note": "a series of connected things"}]}
+{"plaintext": "tre", "meanings": [{"substitution": "wood"}, {"substitution": "wooden"}]}
+{"plaintext": "treen", "synonymOf": "tre"}
+{"plaintext": "trenchours (trenchers)", "meanings": [{"substitution": "rectangular \"plates\" made from flat", "note": "three-day-old loaves of bread"}]}
+{"plaintext": "treyne", "synonymOf": "trayne"}
+{"plaintext": "trounde", "meanings": [{"substitution": "trundle"}, {"substitution": "a round shape"}]}
+{"plaintext": "try", "meanings": [{"substitution": "separated"}, {"substitution": "sifted"}]}
+{"plaintext": "tryid", "synonymOf": "try"}
+{"plaintext": "turbut", "meanings": [{"substitution": "turbot", "note": "(Scophthalmus maximus). A large, flat saltwater fish"}]}
+{"plaintext": "turnesole", "meanings": [{"substitution": "a number of plants of the genus heliotropium", "note": "used to produce red, purple, or blue colors"}]}
+{"plaintext": "uat", "meanings": [{"substitution": "fat"}]}
+{"plaintext": "uergis", "meanings": [{"substitution": "verjuice", "note": "The juice of unripe grapes or sometimes apples. Used for its acidity and sour taste"}]}
+{"plaintext": "unc", "meanings": [{"substitution": "ounce"}]}
+{"plaintext": "unce", "synonymOf": "unc"}
+{"plaintext": "upsodoun", "meanings": [{"substitution": "upside-down"}]}
+{"plaintext": "urchoun", "meanings": [{"substitution": "hedgehog"}]}
+{"plaintext": "utter", "meanings": [{"substitution": "outer"}]}
+{"plaintext": "various", "meanings": [{"substitution": "verjuice", "note": "The juice of unripe grapes or sometimes apples. Used for its acidity and sour taste"}]}
+{"plaintext": "venesoun", "meanings": [{"substitution": "venison"}]}
+{"plaintext": "ventys", "meanings": [{"substitution": "vents"}]}
+{"plaintext": "verde", "meanings": [{"substitution": "green", "note": "(from French)"}]}
+{"plaintext": "vergeous", "merged": true, "meanings": [{"substitution": "verjuice"}], "synonymOf": "various"}
+{"plaintext": "veriaws", "synonymOf": "various"}
+{"plaintext": "verions", "synonymOf": "various"}
+{"plaintext": "verious", "merged": true, "synonymOf": "vergeous"}
+{"plaintext": "veriows", "synonymOf": "vergeous"}
+{"plaintext": "vernage", "merged": true, "meanings": [{"substitution": "a strong kind of wine"}, {"substitution": "a sweet", "note": "Italian wine"}]}
+{"plaintext": "vert", "meanings": [{"substitution": "green"}]}
+{"plaintext": "veruayn", "meanings": [{"substitution": "vervain", "note": "(Verbena officinalis)"}]}
+{"plaintext": "veselle", "meanings": [{"substitution": "vessel"}]}
+{"plaintext": "viaundes", "merged": true, "meanings": [{"substitution": "meats"}, {"substitution": "meat", "note": "(from French)"}]}
+{"plaintext": "vnneþe", "meanings": [{"substitution": "underneath"}, {"substitution": "bottom"}]}
+{"plaintext": "vp", "meanings": [{"substitution": "up"}]}
+{"plaintext": "vppe", "synonymOf": "vp"}
+{"plaintext": "vpperyt", "meanings": [{"substitution": "upright"}]}
+{"plaintext": "vyande", "synonymOf": "viaundes"}
+{"plaintext": "vyne", "meanings": [{"substitution": "wine"}]}
+{"plaintext": "vyneger", "meanings": [{"substitution": "vinegar"}]}
+{"plaintext": "vyolette", "meanings": [{"substitution": "violet"}]}
+{"plaintext": "waffres", "meanings": [{"substitution": "wafers"}]}
+{"plaintext": "wafrouns", "synonymOf": "waffres"}
+{"plaintext": "walkys", "merged": true, "meanings": [{"substitution": "whelks"}, {"substitution": "whelks"}]}
+{"plaintext": "wardones", "meanings": [{"substitution": "Warden pears"}]}
+{"plaintext": "wardons", "meanings": [{"substitution": "pears"}]}
+{"plaintext": "wardonys", "synonymOf": "wardones"}
+{"plaintext": "wardouns", "synonymOf": "wardones"}
+{"plaintext": "wasche", "meanings": [{"substitution": "wash"}, {"substitution": "washed"}]}
+{"plaintext": "wassh", "synonymOf": "wasche"}
+{"plaintext": "wasshem", "meanings": [{"substitution": "wash them"}]}
+{"plaintext": "wast away", "meanings": [{"substitution": "boil down too much"}]}
+{"plaintext": "wastel", "meanings": [{"substitution": "a loaf of fine white bread"}]}
+{"plaintext": "wastelys", "synonymOf": "wastel"}
+{"plaintext": "wastilbrede", "synonymOf": "wastel"}
+{"plaintext": "watteryd", "synonymOf": "y-wateryd"}
+{"plaintext": "waysshe", "meanings": [{"substitution": "wash"}]}
+{"plaintext": "wel", "meanings": [{"substitution": "will"}, {"substitution": "can"}, {"substitution": "well"}]}
+{"plaintext": "wesing", "meanings": [{"substitution": "weasand", "note": "the windpipe"}]}
+{"plaintext": "wessell", "synonymOf": "veselle"}
+{"plaintext": "wesyng", "synonymOf": "wesing"}
+{"plaintext": "wete", "meanings": [{"substitution": "wet"}]}
+{"plaintext": "wex", "meanings": [{"substitution": "wax"}, {"substitution": "become"}]}
+{"plaintext": "wexe", "merged": true, "synonymOf": "wex", "meanings": [{"substitution": "wax", "note": "(increase)"}]}
+{"plaintext": "whan", "synonymOf": "qwen"}
+{"plaintext": "wheder", "meanings": [{"substitution": "whichever"}]}
+{"plaintext": "whess", "synonymOf": "waysshe"}
+{"plaintext": "wheterydoun", "meanings": [{"substitution": "a course sifter for separating grains from chaff"}]}
+{"plaintext": "wheþer", "synonymOf": "wheder"}
+{"plaintext": "whyte", "synonymOf": "hwyte"}
+{"plaintext": "wil", "meanings": [{"substitution": "well"}, {"substitution": "wilt"}]}
+{"plaintext": "with-alle", "meanings": [{"substitution": "likewise"}]}
+{"plaintext": "withouten", "meanings": [{"substitution": "without"}]}
+{"plaintext": "wodecok", "meanings": [{"substitution": "woodcock", "note": "(Scolopax rusticola)"}]}
+{"plaintext": "woldiste", "meanings": [{"substitution": "wouldest"}]}
+{"plaintext": "wole", "meanings": [{"substitution": "will"}, {"substitution": "can"}]}
+{"plaintext": "woll", "synonymOf": "wole"}
+{"plaintext": "wolle", "synonymOf": "wole"}
+{"plaintext": "wollen", "meanings": [{"substitution": "woolen"}]}
+{"plaintext": "wolt", "synonymOf": "wole"}
+{"plaintext": "wombe", "meanings": [{"substitution": "womb"}, {"substitution": "stomach"}, {"substitution": "any cavity of the body that contains something"}]}
+{"plaintext": "wortes", "meanings": [{"substitution": "greens", "note": "Any number of leafy herbs"}]}
+{"plaintext": "wose", "meanings": [{"substitution": "juice"}]}
+{"plaintext": "wyl", "meanings": [{"substitution": "well"}, {"substitution": "awhile"}, {"substitution": "will"}]}
+{"plaintext": "wyn", "synonymOf": "vyne"}
+{"plaintext": "wyne", "synonymOf": "vyne"}
+{"plaintext": "wyneger", "meanings": [{"substitution": "vinegar"}]}
+{"plaintext": "wyt", "synonymOf": "hwyte"}
+{"plaintext": "wyth", "meanings": [{"substitution": "with"}]}
+{"plaintext": "y-bake", "meanings": [{"substitution": "baked"}]}
+{"plaintext": "y-baken", "synonymOf": "y-bake"}
+{"plaintext": "y-blaunchyd", "meanings": [{"substitution": "blaunched"}]}
+{"plaintext": "y-bontyd", "meanings": [{"substitution": "bunted", "note": "sifted"}]}
+{"plaintext": "y-bounde", "meanings": [{"substitution": "stiff"}]}
+{"plaintext": "y-boylid", "meanings": [{"substitution": "boiled"}]}
+{"plaintext": "y-boylyd", "synonymOf": "y-boylid"}
+{"plaintext": "y-braid", "meanings": [{"substitution": "brayed", "note": "pounded"}]}
+{"plaintext": "y-brayd", "synonymOf": "y-braid"}
+{"plaintext": "y-broylid", "meanings": [{"substitution": "broiled"}]}
+{"plaintext": "y-choppid", "meanings": [{"substitution": "chopped"}]}
+{"plaintext": "y-chowchyd", "meanings": [{"substitution": "laid"}, {"substitution": "laid out"}]}
+{"plaintext": "y-clepid", "meanings": [{"substitution": "called"}]}
+{"plaintext": "y-closyd", "meanings": [{"substitution": "closed", "note": "of a pie"}]}
+{"plaintext": "y-corven", "synonymOf": "ket"}
+{"plaintext": "y-coryd", "meanings": [{"substitution": "cored"}]}
+{"plaintext": "y-couched", "synonymOf": "y-chowchyd"}
+{"plaintext": "y-cutte", "synonymOf": "ket"}
+{"plaintext": "y-dicyd", "meanings": [{"substitution": "diced", "note": "cut into small cubes"}]}
+{"plaintext": "y-draw", "meanings": [{"substitution": "drawn", "note": "drawn through a strainer"}]}
+{"plaintext": "y-dressid", "meanings": [{"substitution": "dressed for table"}]}
+{"plaintext": "y-farsyd", "synonymOf": "farced"}
+{"plaintext": "y-fastenyd", "meanings": [{"substitution": "fastened"}]}
+{"plaintext": "y-fere", "meanings": [{"substitution": "together"}]}
+{"plaintext": "y-gratyd", "meanings": [{"substitution": "grated"}]}
+{"plaintext": "y-grounde", "meanings": [{"substitution": "ground"}]}
+{"plaintext": "y-hackyd", "synonymOf": "y-choppid"}
+{"plaintext": "y-harded", "synonymOf": "hardyd"}
+{"plaintext": "y-hardid", "synonymOf": "hardyd"}
+{"plaintext": "y-helid", "meanings": [{"substitution": "covered"}, {"substitution": "in the case of pies", "note": "it refers to a top crust"}]}
+{"plaintext": "y-helyd", "synonymOf": "y-helid"}
+{"plaintext": "y-hole", "meanings": [{"substitution": "whole"}, {"substitution": "all in one piece. This may also mean uncut", "note": "with the bones or stones in"}, {"substitution": "also skinned or hulled"}]}
+{"plaintext": "y-kremyd", "meanings": [{"substitution": "crimmed", "note": "crumbled"}]}
+{"plaintext": "y-kyt", "synonymOf": "ket"}
+{"plaintext": "y-liche moche", "meanings": [{"substitution": "a like much", "note": "or quantity"}]}
+{"plaintext": "y-now", "meanings": [{"substitution": "enough"}, {"substitution": "done"}, {"substitution": "suitable"}]}
+{"plaintext": "y-parede", "meanings": [{"substitution": "pared"}]}
+{"plaintext": "y-peyntid", "meanings": [{"substitution": "painted"}]}
+{"plaintext": "y-schredyd", "meanings": [{"substitution": "shredded"}]}
+{"plaintext": "y-scredde", "synonymOf": "y-schredyd"}
+{"plaintext": "y-sode", "meanings": [{"substitution": "boiled"}, {"substitution": "soaked"}, {"substitution": "sodden"}]}
+{"plaintext": "y-sope", "synonymOf": "y-sode"}
+{"plaintext": "y-sothe", "synonymOf": "y-sode"}
+{"plaintext": "y-soþe", "synonymOf": "y-boylid"}
+{"plaintext": "y-stampyd", "meanings": [{"substitution": "ground"}, {"substitution": "mashed"}]}
+{"plaintext": "y-stekyd", "meanings": [{"substitution": "stuck"}]}
+{"plaintext": "y-straynid", "meanings": [{"substitution": "rubbed through a strainer"}]}
+{"plaintext": "y-stwyde", "meanings": [{"substitution": "stewed"}]}
+{"plaintext": "y-stykyd", "synonymOf": "y-stekyd"}
+{"plaintext": "y-stywyd", "synonymOf": "y-stwyde"}
+{"plaintext": "y-swonge", "meanings": [{"substitution": "beaten"}]}
+{"plaintext": "y-tallyd", "synonymOf": "taylid"}
+{"plaintext": "y-tryid", "meanings": [{"substitution": "separated"}]}
+{"plaintext": "y-wasshe", "meanings": [{"substitution": "washed"}]}
+{"plaintext": "y-wateryd", "meanings": [{"substitution": "soaked", "note": "to remove salt from something"}]}
+{"plaintext": "y-wette", "meanings": [{"substitution": "wetted"}]}
+{"plaintext": "y-wreten", "meanings": [{"substitution": "written"}]}
+{"plaintext": "y-wronge", "meanings": [{"substitution": "wrung"}]}
+{"plaintext": "ybake", "meanings": [{"substitution": "baked"}]}
+{"plaintext": "yboiled", "meanings": [{"substitution": "boiled"}]}
+{"plaintext": "ybrayed", "meanings": [{"substitution": "ground"}]}
+{"plaintext": "ybroke", "meanings": [{"substitution": "broken"}]}
+{"plaintext": "ybrulyd", "merged": true, "synonymOf": "y-broylid", "meanings": [{"substitution": "broiled"}]}
+{"plaintext": "ycolouryt", "meanings": [{"substitution": "colored"}]}
+{"plaintext": "ycolowrd", "synonymOf": "ycolouryt"}
+{"plaintext": "ycuver", "meanings": [{"substitution": "covered"}]}
+{"plaintext": "ydo", "meanings": [{"substitution": "done", "note": "(added)"}]}
+{"plaintext": "ydraw", "meanings": [{"substitution": "drawn", "note": "pulled apart"}]}
+{"plaintext": "ydyced", "meanings": [{"substitution": "diced"}]}
+{"plaintext": "yeest", "meanings": [{"substitution": "yeast"}]}
+{"plaintext": "yelkys", "meanings": [{"substitution": "yolks"}]}
+{"plaintext": "yerth", "synonymOf": "erthe"}
+{"plaintext": "yevyn", "meanings": [{"substitution": "evenly"}]}
+{"plaintext": "yfarced", "meanings": [{"substitution": "stuffed", "note": "(from French)"}]}
+{"plaintext": "yfere", "synonymOf": "y-fere"}
+{"plaintext": "yfoundred", "meanings": [{"substitution": "melted", "note": "(from French)"}]}
+{"plaintext": "yfoundyt", "synonymOf": "yfoundred"}
+{"plaintext": "ygrounden", "meanings": [{"substitution": "ground"}]}
+{"plaintext": "yheled", "synonymOf": "y-helid"}
+{"plaintext": "yleesshed", "meanings": [{"substitution": "sliced"}]}
+{"plaintext": "ymber day", "meanings": [{"substitution": "ember day", "note": "One of the fasting days of the Christian calendar"}]}
+{"plaintext": "ymbre day", "meanings": [{"substitution": "ember day", "note": "one of the fasting days which mark the four seasons of the Christian year. Dairy goods were permitted on fast days days out of Lent at this time"}]}
+{"plaintext": "ymyed", "meanings": [{"substitution": "minced"}]}
+{"plaintext": "ynogh", "merged": true, "synonymOf": "y-now", "meanings": [{"substitution": "enough"}]}
+{"plaintext": "ynouh", "synonymOf": "y-now"}
+{"plaintext": "ynowe", "synonymOf": "y-now"}
+{"plaintext": "yolkes", "synonymOf": "yelkys"}
+{"plaintext": "yoyse", "synonymOf": "ioissh"}
+{"plaintext": "ypocras", "meanings": [{"substitution": "hyppocras", "note": "A sweet, spiced wine, or the spice mixture used to make it"}]}
+{"plaintext": "ypylled", "meanings": [{"substitution": "peeled"}]}
+{"plaintext": "yrchons", "merged": true, "meanings": [{"substitution": "urchins"}, {"substitution": "hedgehogs"}, {"substitution": "porcupines", "note": "so called from being made bristly with almonds"}, {"substitution": "hedgehogs"}]}
+{"plaintext": "yrchouns", "synonymOf": "yrchons"}
+{"plaintext": "yren", "merged": true, "meanings": [{"substitution": "iron"}, {"substitution": "eggs", "note": "(from German). Also sometimes iron - as in \"Take a shouell of yren ...\""}]}
+{"plaintext": "yrth", "synonymOf": "erthe"}
+{"plaintext": "ys", "synonymOf": "his"}
+{"plaintext": "ysode", "meanings": [{"substitution": "boiled"}]}
+{"plaintext": "ysoden", "synonymOf": "y-sode"}
+{"plaintext": "ysodyn", "synonymOf": "ysode"}
+{"plaintext": "ysop", "merged": true, "synonymOf": "isoppe", "meanings": [{"substitution": "hyssop", "note": "(Hyssopus officinalis). A member of the mint family"}]}
+{"plaintext": "ysope", "synonymOf": "isoppe"}
+{"plaintext": "yswengyd", "meanings": [{"substitution": "whisked"}]}
+{"plaintext": "yswonge", "synonymOf": "yswengyd"}
+{"plaintext": "yt", "meanings": [{"substitution": "it"}]}
+{"plaintext": "zeoþ", "synonymOf": "seþen"}
+{"plaintext": "zeoþen", "synonymOf": "seþen"}
+{"plaintext": "zesy", "synonymOf": "yeest"}
+{"plaintext": "zolkys", "synonymOf": "yelkys"}
+{"plaintext": "zunne", "meanings": [{"substitution": "sun", "note": "same as the words sonne and sunne"}]}
+{"plaintext": "~", "merged": true}
+{"plaintext": "~", "merged": true}
+{"plaintext": "~", "merged": true}
+{"plaintext": "~", "merged": true}
+{"plaintext": "~"}
+{"plaintext": "~"}
+{"plaintext": "~"}
+{"plaintext": "~"}
+{"plaintext": "~"}
+{"plaintext": "~"}
+{"plaintext": "þan", "meanings": [{"substitution": "then"}]}
+{"plaintext": "þanne", "synonymOf": "þan"}
+{"plaintext": "þe", "meanings": [{"substitution": "the"}]}
+{"plaintext": "þen", "meanings": [{"substitution": "then"}]}
+{"plaintext": "þenne", "synonymOf": "þen"}
+{"plaintext": "þer-in", "synonymOf": "þer-on"}
+{"plaintext": "þer-on", "meanings": [{"substitution": "thereto"}]}
+{"plaintext": "þere-to", "synonymOf": "þer-on"}
+{"plaintext": "þerinne", "meanings": [{"substitution": "therein"}]}
+{"plaintext": "þerto", "synonymOf": "þer-on"}
+{"plaintext": "þerwith", "meanings": [{"substitution": "therewith"}]}
+{"plaintext": "þis", "meanings": [{"substitution": "this"}]}
+{"plaintext": "þise", "synonymOf": "þis"}
+{"plaintext": "þurgh", "synonymOf": "thorgh"}

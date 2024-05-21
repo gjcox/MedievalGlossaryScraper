@@ -1,0 +1,11 @@
+noiez mugadez has lost synonymOf(mugadez): {'plaintext': 'noiez mugadez', 'merged': True, 'synonymOf': 'noiez'}
+saundres has lost synonymOf(sandres): {'plaintext': 'saundres', 'merged': True, 'synonymOf': 'saunderys'}verious has lost synonymOf(various): {'plaintext': 'verious', 'merged': True, 'synonymOf': 'vergeous'}   
+alye has lost synonymOf(alay): {'plaintext': 'alye', 'merged': True, 'synonymOf': 'a-lay'}
+codlyng has lost synonymOf(cod): {'plaintext': 'codlyng', 'merged': True, 'synonymOf': 'codlynd'}        
+eron has lost synonymOf(eiren): {'plaintext': 'eron', 'merged': True, 'synonymOf': 'egges'}
+eyren has lost synonymOf(eiren): {'plaintext': 'eyren', 'merged': True, 'synonymOf': 'egges'}
+galyntyne has lost synonymOf(galentyn): {'plaintext': 'galyntyne', 'merged': True, 'synonymOf': 'galentyne'}
+medle has lost synonymOf(meddle): {'plaintext': 'medle', 'merged': True, 'synonymOf': 'medel'}
+myce has lost synonymOf(mice): {'plaintext': 'myce', 'merged': True, 'synonymOf': 'maumenye'}
+nyme has lost synonymOf(neme): {'plaintext': 'nyme', 'merged': True, 'synonymOf': 'nym'}
+quybibes has lost synonymOf(qibibus): {'plaintext': 'quybibes', 'merged': True, 'synonymOf': 'quibbes'}
